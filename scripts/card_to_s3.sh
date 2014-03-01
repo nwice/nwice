@@ -9,9 +9,9 @@ function checkDir {
     elif [[ `basename $f` != np_* ]] ; then
       dest_f="$2`basename $f`"
       echo "copy $f to $dest_f"
-      ~/git/websites/nwice/scripts/s3copy.py -k $EC2_KEY -s $EC2_PASS -b www.card.nwice.com -f $f -t $dest_f -p public-read      
+      ~/6998159/s3copy.py -b www.card.nwice.com -f $f -t $dest_f -p public-read      
     fi
   done
 }
 
-checkDir "/home/kevin/git/card/html/*" "/"
+checkDir "/home/kevin/card/war/" "/"
