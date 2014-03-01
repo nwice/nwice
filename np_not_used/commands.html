@@ -1,0 +1,29 @@
+ commands:
+
+<ul>
+	<li>grep -lr -e 'word' * | xargs sed -i 's/word/replace/g'
+	<li>tar -zcvf foo.tgz foo
+</ul>
+
+aims:
+
+<ul>
+	<li>ami-a7f539ce
+		(ebs/ubuntu-images/ubuntu-oneiric-11.10-i386-server-20111011)
+</ul>
+
+
+scripts:
+<ul>
+	<li>install restmq <pre>
+# ubuntu 11.10
+sudo apt-get install git redis-server python-setuptools python-twisted
+git clone https://github.com/fiorix/cyclone.git
+cd cyclone
+sudo python setup.py install
+cd ..
+git clone https://github.com/gleicon/restmq.git
+cd restmq
+sudo python setup.py install
+</pre>
+</ul>

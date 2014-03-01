@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/kmcintyre</id>
+  <link type="text/html" rel="alternate" href="https://github.com/kmcintyre"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/kmcintyre.atom"/>
+  <title>kmcintyre&#39;s Activity</title>
+  <updated>2014-02-28T19:54:08Z</updated>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1998550129</id>
+    <published>2014-02-28T19:54:08Z</published>
+    <updated>2014-02-28T19:54:08Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/73a10c9640...7c62be4010"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-02-28T19:54:08Z&quot; title=&quot;2014-02-28 19:54:08&quot;&gt;February 28, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/7c62be4010bd26d8778017915c5b657e745080d5&quot;&gt;7c62be4&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Add video d&#39;oh
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1994047037</id>
+    <published>2014-02-25T22:32:46Z</published>
+    <updated>2014-02-25T22:32:46Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/fd2b9c9046...73a10c9640"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-02-25T22:32:46Z&quot; title=&quot;2014-02-25 22:32:46&quot;&gt;February 25, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/73a10c964008e141781a33191d38b6998b85b30e&quot;&gt;73a10c9&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Tweak Settings
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1994017762</id>
+    <published>2014-02-25T22:12:30Z</published>
+    <updated>2014-02-25T22:12:30Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/62215f4c0e...fd2b9c9046"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-02-25T22:12:30Z&quot; title=&quot;2014-02-25 22:12:30&quot;&gt;February 25, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/fd2b9c9046a05925d798a0827088bfb74914734c&quot;&gt;fd2b9c9&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              pyscewpt/maybevideo.py
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1991794561</id>
+    <published>2014-02-24T15:42:09Z</published>
+    <updated>2014-02-24T15:42:09Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/card/compare/5f220a5a25...4b4b2fcc88"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/card</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-02-24T15:42:09Z&quot; title=&quot;2014-02-24 15:42:09&quot;&gt;February 24, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/card/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/card&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/card&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/4b4b2fcc88dbe7ba2270af26edd474c50dcd0418&quot;&gt;4b4b2fc&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Clean up
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/32be95bb99fdd58e4dffbe4787dea7ca2224e744&quot;&gt;32be95b&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Clean up
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/card/compare/5f220a5a25...4b4b2fcc88&quot;&gt;2 more commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1982929847</id>
+    <published>2014-02-17T11:09:11Z</published>
+    <updated>2014-02-17T11:09:11Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/card/compare/55082cd7ae...5f220a5a25"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/card</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-02-17T11:09:11Z&quot; title=&quot;2014-02-17 11:09:11&quot;&gt;February 17, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/card/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/card&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/card&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/5f220a5a25a726a7c4770377e87c4e787e295594&quot;&gt;5f220a5&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              More blah
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/cac98985a709f8fd309123c61db30fe9c53ed7ec&quot;&gt;cac9898&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Blah
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/card/compare/55082cd7ae...5f220a5a25&quot;&gt;View comparison for these 2 commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1982711918</id>
+    <published>2014-02-17T06:48:20Z</published>
+    <updated>2014-02-17T06:48:20Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/card/compare/f63898838a...55082cd7ae"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/card</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-02-17T06:48:20Z&quot; title=&quot;2014-02-17 06:48:20&quot;&gt;February 17, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/card/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/card&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/card&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/55082cd7ae9f116f6c28fb51bb9f4416ce6f5ef3&quot;&gt;55082cd&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Quick test
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1981579989</id>
+    <published>2014-02-15T01:30:45Z</published>
+    <updated>2014-02-15T01:30:45Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/cd2dc007ba...62215f4c0e"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-02-15T01:30:45Z&quot; title=&quot;2014-02-15 01:30:45&quot;&gt;February 15, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/62215f4c0ed1bdb8de12184211b7f274aa7f2f1f&quot;&gt;62215f4&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Quick update
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1978989881</id>
+    <published>2014-02-13T08:49:15Z</published>
+    <updated>2014-02-13T08:49:15Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/card/compare/c2eb70b750...f63898838a"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/card</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-02-13T08:49:15Z&quot; title=&quot;2014-02-13 08:49:15&quot;&gt;February 13, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/card/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/card&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/card&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/f63898838a4269299ae63c5900906756fc9233e6&quot;&gt;f638988&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Bye bye baby
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/7588d9db3c10b3e0e4916a823d24e4806e94a172&quot;&gt;7588d9d&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Another day another dollar?
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/card/compare/c2eb70b750...f63898838a&quot;&gt;View comparison for these 2 commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1978282054</id>
+    <published>2014-02-12T20:02:08Z</published>
+    <updated>2014-02-12T20:02:08Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/card/compare/0d8a713a4d...c2eb70b750"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/card</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-02-12T20:02:08Z&quot; title=&quot;2014-02-12 20:02:08&quot;&gt;February 12, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/card/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/card&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/card&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/c2eb70b7502fea516907d45a9884d17bec076c79&quot;&gt;c2eb70b&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Okay moving along
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/288137b6acecb38ac34c7896aa020eba7094b9b6&quot;&gt;288137b&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Latest/greatest too much UI work!
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/card/compare/0d8a713a4d...c2eb70b750&quot;&gt;View comparison for these 2 commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1963263314</id>
+    <published>2014-01-31T03:03:39Z</published>
+    <updated>2014-01-31T03:03:39Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/card/compare/7bbda0cb11...0d8a713a4d"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/card</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-01-31T03:03:39Z&quot; title=&quot;2014-01-31 03:03:39&quot;&gt;January 31, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/card/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/card&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/card&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/0d8a713a4d9ed157305564c9296f71a0e35e3445&quot;&gt;0d8a713&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Latest/Greatest - getting closer
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1954583762</id>
+    <published>2014-01-23T19:50:22Z</published>
+    <updated>2014-01-23T19:50:22Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/websites/compare/7c99ab8cee...45df1c9086"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/websites</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-01-23T19:50:22Z&quot; title=&quot;2014-01-23 19:50:22&quot;&gt;January 23, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/websites/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/websites&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/websites&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/websites/commit/45df1c908605e815bc9bd11e8ae07a4553d158f7&quot;&gt;45df1c9&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Latest greatestwq
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1948267579</id>
+    <published>2014-01-17T22:35:13Z</published>
+    <updated>2014-01-17T22:35:13Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/card/compare/3728faf823...7bbda0cb11"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/card</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-01-17T22:35:13Z&quot; title=&quot;2014-01-17 22:35:13&quot;&gt;January 17, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/card/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/card&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/card&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/7bbda0cb11d92f61cc48a9ab7fd1ffddb8b0d969&quot;&gt;7bbda0c&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Getting closer
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1947373574</id>
+    <published>2014-01-17T09:15:37Z</published>
+    <updated>2014-01-17T09:15:37Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/card/compare/bc4e01dcb1...3728faf823"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/card</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-01-17T09:15:37Z&quot; title=&quot;2014-01-17 09:15:37&quot;&gt;January 17, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/card/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/card&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/card&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/3728faf823edef0ebaf1e097ee630233c3f7b258&quot;&gt;3728faf&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              A few more days of node and requirejs
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1944047434</id>
+    <published>2014-01-14T21:59:22Z</published>
+    <updated>2014-01-14T21:59:22Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/card/compare/12b4b8f13d...bc4e01dcb1"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/card</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-01-14T21:59:22Z&quot; title=&quot;2014-01-14 21:59:22&quot;&gt;January 14, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/card/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/card&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/card&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/bc4e01dcb13c2ce0dbe82c525f0a169135ac5e3a&quot;&gt;bc4e01d&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Get there
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/23050534b2d1cfeee61222b6ce4c79f980d76732&quot;&gt;2305053&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Moving further into requirejs and node.js
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/card/compare/12b4b8f13d...bc4e01dcb1&quot;&gt;View comparison for these 2 commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/1943910175</id>
+    <published>2014-01-14T20:12:17Z</published>
+    <updated>2014-01-14T20:12:17Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/tavendo/AutobahnJS/issues/48#issuecomment-32302488"/>
+    <title type="html">kmcintyre commented on issue tavendo/AutobahnJS#48</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;span class=&quot;mega-octicon octicon-comment-discussion&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-01-14T20:12:17Z&quot; title=&quot;2014-01-14 20:12:17&quot;&gt;January 14, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;commented&lt;/span&gt; on issue &lt;a href=&quot;https://github.com/tavendo/AutobahnJS/issues/48#issuecomment-32302488&quot; title=&quot;getting remote ip - rookie question&quot;&gt;tavendo/AutobahnJS#48&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;sorry.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssuesEvent/1943902537</id>
+    <published>2014-01-14T20:06:21Z</published>
+    <updated>2014-01-14T20:06:21Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/tavendo/AutobahnJS/issues/48"/>
+    <title type="html">kmcintyre opened issue tavendo/AutobahnJS#48</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- issues --&gt;
+&lt;span class=&quot;mega-octicon octicon-issue-opened&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-01-14T20:06:21Z&quot; title=&quot;2014-01-14 20:06:21&quot;&gt;January 14, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;opened&lt;/span&gt; issue &lt;a href=&quot;https://github.com/tavendo/AutobahnJS/issues/48&quot; title=&quot;getting remote ip - rookie question&quot;&gt;tavendo/AutobahnJS#48&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message&quot;&gt;
+    &lt;blockquote&gt;
+      getting remote ip - rookie question
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1929381672</id>
+    <published>2013-12-27T23:49:17Z</published>
+    <updated>2013-12-27T23:49:17Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/card/compare/712e3caa19...12b4b8f13d"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/card</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-12-27T23:49:17Z&quot; title=&quot;2013-12-27 23:49:17&quot;&gt;December 27, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/card/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/card&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/card&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/12b4b8f13d2469f4ace629262c8f28bd8a1db020&quot;&gt;12b4b8f&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Update docs
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1929380880</id>
+    <published>2013-12-27T23:47:12Z</published>
+    <updated>2013-12-27T23:47:12Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/card/compare/19f9b08ac5...712e3caa19"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/card</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-12-27T23:47:12Z&quot; title=&quot;2013-12-27 23:47:12&quot;&gt;December 27, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/card/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/card&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/card&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/712e3caa19c350cf3ef873c0385a20c05040fbc1&quot;&gt;712e3ca&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Another interim release - Not getting to far
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1928069675</id>
+    <published>2013-12-25T16:34:32Z</published>
+    <updated>2013-12-25T16:34:32Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/card/compare/562b05f534...19f9b08ac5"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/card</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-12-25T16:34:32Z&quot; title=&quot;2013-12-25 16:34:32&quot;&gt;December 25, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/card/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/card&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/card&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/19f9b08ac5e74786ae6a64b092c6f91d0b1f0d65&quot;&gt;19f9b08&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Mid push - adding facebook login
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/card/commit/f2f0db3913c23a28059ef34ca686d5a115813e2f&quot;&gt;f2f0db3&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Mid push - sync
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/card/compare/562b05f534...19f9b08ac5&quot;&gt;View comparison for these 2 commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1893691859</id>
+    <published>2013-11-19T23:28:26Z</published>
+    <updated>2013-11-19T23:28:26Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/813f4ca369...cd2dc007ba"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-11-19T23:28:26Z&quot; title=&quot;2013-11-19 23:28:26&quot;&gt;November 19, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/cd2dc007bab0bd6b715dcbbc7b9d4e8d22b1643e&quot;&gt;cd2dc00&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Tweak to update google domain pull, and more print statements
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1893682030</id>
+    <published>2013-11-19T23:18:29Z</published>
+    <updated>2013-11-19T23:18:29Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/31a86b29df...813f4ca369"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-11-19T23:18:29Z&quot; title=&quot;2013-11-19 23:18:29&quot;&gt;November 19, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/813f4ca36955c9a0135975ba0821ac6ebb0c6d50&quot;&gt;813f4ca&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              tiny stuff
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1890632482</id>
+    <published>2013-11-16T19:17:48Z</published>
+    <updated>2013-11-16T19:17:48Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/39a0a0dfc9...31a86b29df"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-11-16T19:17:48Z&quot; title=&quot;2013-11-16 19:17:48&quot;&gt;November 16, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/31a86b29df4fe14ac320b92e6e988d5ecf3913b4&quot;&gt;31a86b2&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Road tweeks
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1886018725</id>
+    <published>2013-11-12T17:24:21Z</published>
+    <updated>2013-11-12T17:24:21Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/a491c43230...39a0a0dfc9"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-11-12T17:24:21Z&quot; title=&quot;2013-11-12 17:24:21&quot;&gt;November 12, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/39a0a0dfc97f1abc92fe5807cccd18255662dbca&quot;&gt;39a0a0d&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              just starting to work cron into mix
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1882801091</id>
+    <published>2013-11-08T18:09:02Z</published>
+    <updated>2013-11-08T18:09:02Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/daa961cde5...a491c43230"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-11-08T18:09:02Z&quot; title=&quot;2013-11-08 18:09:02&quot;&gt;November 08, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/a491c43230c27d3019f57f9d5714f35f0b2e9347&quot;&gt;a491c43&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              road tweeks
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1881796417</id>
+    <published>2013-11-07T21:09:18Z</published>
+    <updated>2013-11-07T21:09:18Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/03e2d36323...daa961cde5"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-11-07T21:09:18Z&quot; title=&quot;2013-11-07 21:09:18&quot;&gt;November 07, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/daa961cde582e6da8b79bfcee152823fbba920d3&quot;&gt;daa961c&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Headed on the road
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1881545719</id>
+    <published>2013-11-07T17:32:40Z</published>
+    <updated>2013-11-07T17:32:40Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/698c384c9e...03e2d36323"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-11-07T17:32:40Z&quot; title=&quot;2013-11-07 17:32:40&quot;&gt;November 07, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/03e2d36323017cb610acd285c71e9640f7c623be&quot;&gt;03e2d36&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              clean up
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1881540078</id>
+    <published>2013-11-07T17:28:13Z</published>
+    <updated>2013-11-07T17:28:13Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/5b41b24694...698c384c9e"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-11-07T17:28:13Z&quot; title=&quot;2013-11-07 17:28:13&quot;&gt;November 07, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/698c384c9ee8fc05cb7cad4e4536a396f86e6cb2&quot;&gt;698c384&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Latest Deployment to Amazon
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1880763866</id>
+    <published>2013-11-07T01:12:22Z</published>
+    <updated>2013-11-07T01:12:22Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/1617354ffb...5b41b24694"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-11-07T01:12:22Z&quot; title=&quot;2013-11-07 01:12:22&quot;&gt;November 07, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/5b41b24694aaa6691c9cb04639afe7325940bfb2&quot;&gt;5b41b24&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              moving quickstart to start
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1880762243</id>
+    <published>2013-11-07T01:10:08Z</published>
+    <updated>2013-11-07T01:10:08Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/efc28f3d0b...1617354ffb"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-11-07T01:10:08Z&quot; title=&quot;2013-11-07 01:10:08&quot;&gt;November 07, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/1617354ffbf4ed1af7b06777c76f38c1763a52a0&quot;&gt;1617354&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              add another js
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/1880659596</id>
+    <published>2013-11-06T23:06:31Z</published>
+    <updated>2013-11-06T23:06:31Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/scewpt/compare/47e899b580...efc28f3d0b"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/scewpt</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1017886"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2013-11-06T23:06:31Z&quot; title=&quot;2013-11-06 23:06:31&quot;&gt;November 06, 2013&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/scewpt/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/scewpt&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/scewpt&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars.githubusercontent.com/u/1017886&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/scewpt/commit/efc28f3d0b0b4f8f8ca2a3b5408a165555c72023&quot;&gt;efc28f3&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              polish
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

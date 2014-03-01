@@ -1,0 +1,7 @@
+Don't forget to specify the correct key upon instance creation.
+
+Disk size can always be an issue
+
+Have a secretkey and secretpass
+
+Bring a toolbag - i.e. set of scripts
