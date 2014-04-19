@@ -168,7 +168,9 @@ $(document).ready(function() {
 
 	  try {
 		  var results = document.cookie.match ( '(^|;) ?lastclick=([^;]*)(;|$)' );
-		  $('#' + unescape ( results[2] ) ).click();		  
+		  if ( results != null ) {
+		  	$('#' + unescape ( results[2] ) ).click();
+		  }		  
 	} catch ( err ) {
 		if ( window.location.hash ) {
 			$(window.location.hash).click();
