@@ -166,19 +166,14 @@ $(document).ready(function() {
 	  $("#nwicecloud").find('li').click(navclick);	  	  
 	  $("#tanks").click(navclick);
 
-	  try {
-		  var results = document.cookie.match ( '(^|;) ?lastclick=([^;]*)(;|$)' );
-		  if ( results != null ) {
-		  	$('#' + unescape ( results[2] ) ).click();
-		  }		  
-	} catch ( err ) {
-		if ( window.location.hash ) {
-			$(window.location.hash).click();
-		} else {
-			$('#welcome').click();
-		}
-	}
-	
+	  var results = document.cookie.match ( '(^|;) ?lastclick=([^;]*)(;|$)' );
+	  if ( results != null ) {
+	  	$('#' + unescape ( results[2] ) ).click();
+	  } else if ( window.location.hash ) {
+	  	$(window.location.hash).click();
+	  } else {
+	    $('#welcome').click();
+	  } 
 })
 </script>
 
@@ -193,8 +188,7 @@ $(document).ready(function() {
 					<li id="scewpt">scewpt</li>
 					<li id="card">card</li>					
 					<li id="resume">resume</li>										
-					<li id="contact">contact</li>
-					<li id="twitter">twitter</li>
+					<li id="contact">contact</li>					
 					<li id="github">github</li>
 				</ul>
 
@@ -220,7 +214,7 @@ $(document).ready(function() {
 				<div class="pane" id="welcome_info">
 					<p>Hi, welcome to nwice.com</p>
 					<p>Future home of the Sean Connery whirling dervisher.</p>					
-					<p>presently working on <a href="http://nfl.scewpt.com">ScewptNFL</a> using requirejs, jquery, websocket with autobahnjs and server side python twisted, xvfb, qtwebkit, dynamo db, cloudfront, ec2, s3</p>					
+					<p>presently working on <a href="http://www.scewpt.com">Scewpt</a> using requirejs, jquery, websocket with autobahnjs and server side python twisted, xvfb, qtwebkit, dynamo db, cloudfront, ec2, s3</p>					
 					<p>
 					https://tools.ietf.org/html/rfc6455 - the magna carta of our times.
 					</p>
@@ -242,8 +236,9 @@ $(document).ready(function() {
 				</div>
 				
 				<div class="pane" id="card_info">
-					<p>My <a href="http://card.nwice.com">android applicaton</a></p>
-					<p>Built using AndEngine and ADT/Eclipse.</p>				
+					<p>Splash page to upcoming HTML5 blackjack app <a href="http://www.blackjack4all.com">blackjack4all</a></p>
+				
+					<p>My <a href="http://card.nwice.com">android applicaton</a> built using AndEngine and ADT/Eclipse.</p>				
 					<p>
 						Download Nwice Card at <a
 						href="https://play.google.com/store/apps/details?id=com.nwice.card">Google
@@ -272,7 +267,8 @@ $(document).ready(function() {
 				</div>				
 
 				<div class="pane" id="scewpt_info">
-					<p><a href="http://nfl.scewpt.com">Scewpt NFL</a> tracking changes across NFL social landscape</p>
+					<p><a href="http://www.athleets.com">Athleets.com</a> - Chill with pros</p>
+					<p><a href="http://www.junkeet.com">Junkeet.com</a> - Let the debate begin</p>
 					
 					<p><a href="http://www.scewpt.com">Scewpt Inbox</a> indisposible email</p>
 					<p>See <a href="http://www.scewpt.com/mg/">morning google</a> Scewpt QT opencv avconv mashup</p>
@@ -286,7 +282,8 @@ $(document).ready(function() {
 					meaning it can sniff packets, manage ssl/tls, handle events, and 'be' in the cloud with relative ease.
 					</p>
 					<p class="reference">
-						<a href="https://github.com/kmcintyre/scewpt">Source code</a> at github <b>(!= scewpt.com y mail.scewpt.com)</b>
+						<a href="https://github.com/kmcintyre/athleets.com">athleets.com</a><br>
+						<a href="https://github.com/kmcintyre/junkeet.com">junkeet.com</a>
 					</p>					
 				</div>
 
@@ -310,23 +307,15 @@ $(document).ready(function() {
 						Cell: 718-249-5058
 					</p>
 					<p>Skype Handle: kebin_70</p>
-				</div>
-
-				<div class="pane" id="twitter_info">
 					<p>
 						yambaby <a href="https://twitter.com/freelancerstea">Green Tea Fan</a>.
-					</p>					
-					<p>
-						Also see <a href="http://nfl.scewpt.com">ScewptNFL</a>.
-					</p>					
-				</div>
-
-				<div class="pane" id="github_info">
+					</p>
 					<p>
 						Find professional information and source code to projects I've
 						released at <a href="https://github.com/kmcintyre">github</a>.
 					</p>
 					<div id="github_feed"></div>
+															
 				</div>
 				<div class="pane" id="tanks_info">
 					<p>
