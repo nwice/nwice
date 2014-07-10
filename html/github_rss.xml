@@ -4,7 +4,1021 @@
   <link type="text/html" rel="alternate" href="https://github.com/kmcintyre"/>
   <link type="application/atom+xml" rel="self" href="https://github.com/kmcintyre.atom"/>
   <title>kmcintyre&#39;s Activity</title>
-  <updated>2014-06-28T23:54:43Z</updated>
+  <updated>2014-07-10T01:10:34Z</updated>
+  <entry>
+    <id>tag:github.com,2008:MemberEvent/2179438870</id>
+    <published>2014-07-10T01:10:34Z</published>
+    <updated>2014-07-10T01:10:34Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/pokertalon.com"/>
+    <title type="html">kmcintyre added DarcvexiS to kmcintyre/pokertalon.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- member --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-person-addeded&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;added&lt;/span&gt; &lt;a href=&quot;/DarcvexiS&quot;&gt;DarcvexiS&lt;/a&gt; to &lt;a href=&quot;https://github.com/kmcintyre/pokertalon.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/pokertalon.com&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2014-07-10T01:10:34Z&quot; is=&quot;relative-time&quot;&gt;July 10, 2014&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2179322185</id>
+    <published>2014-07-09T23:15:44Z</published>
+    <updated>2014-07-09T23:15:44Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/junkeet.com/compare/242956161d...2acc3940c5"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/junkeet.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-09T23:15:44Z&quot; is=&quot;relative-time&quot;&gt;July 09, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/junkeet.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/junkeet.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/junkeet.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/junkeet.com/commit/2acc3940c50076c33513c0c61dfbdb2fcc674fec&quot;&gt;2acc394&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2175786222</id>
+    <published>2014-07-08T05:11:33Z</published>
+    <updated>2014-07-08T05:11:33Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/junkeet.com/compare/2454c8d56e...242956161d"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/junkeet.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-08T05:11:33Z&quot; is=&quot;relative-time&quot;&gt;July 08, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/junkeet.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/junkeet.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/junkeet.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/junkeet.com/commit/242956161d5084c707a2fa55af5cf50ef624df33&quot;&gt;2429561&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2175288121</id>
+    <published>2014-07-07T21:05:10Z</published>
+    <updated>2014-07-07T21:05:10Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/pokertalon.com/compare/4d5818f97a...db238dbec6"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/pokertalon.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-07T21:05:10Z&quot; is=&quot;relative-time&quot;&gt;July 07, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/pokertalon.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/pokertalon.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/pokertalon.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/pokertalon.com/commit/db238dbec63da5b867b7fbcd9f9581ad27faabe0&quot;&gt;db238db&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/2173529667</id>
+    <published>2014-07-06T16:14:26Z</published>
+    <updated>2014-07-06T16:14:26Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/e2brute.com"/>
+    <title type="html">kmcintyre created repository kmcintyre/e2brute.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- create --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-repo&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;created&lt;/span&gt; repository &lt;a href=&quot;/kmcintyre/e2brute.com&quot; class=&quot;css-truncate css-truncate-target&quot; title=&quot;kmcintyre/e2brute.com&quot;&gt;kmcintyre/e2brute.com&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2014-07-06T16:14:26Z&quot; is=&quot;relative-time&quot;&gt;July 06, 2014&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2173258168</id>
+    <published>2014-07-06T02:55:31Z</published>
+    <updated>2014-07-06T02:55:31Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/pokertalon.com/compare/e9661f4492...4d5818f97a"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/pokertalon.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-06T02:55:31Z&quot; is=&quot;relative-time&quot;&gt;July 06, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/pokertalon.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/pokertalon.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/pokertalon.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/pokertalon.com/commit/4d5818f97a527904864b54d874d07b0928323cfe&quot;&gt;4d5818f&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2172651779</id>
+    <published>2014-07-04T20:46:00Z</published>
+    <updated>2014-07-04T20:46:00Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/f8e83248a4...0ce810cbcf"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-04T20:46:00Z&quot; is=&quot;relative-time&quot;&gt;July 04, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/0ce810cbcfbe37d390f42797cf81d6127a64b41a&quot;&gt;0ce810c&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Resize
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2172624164</id>
+    <published>2014-07-04T19:55:02Z</published>
+    <updated>2014-07-04T19:55:02Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/ca745f7b64...f8e83248a4"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-04T19:55:02Z&quot; is=&quot;relative-time&quot;&gt;July 04, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/f8e83248a4776773a06b516bab2d7e9fd1344bbb&quot;&gt;f8e8324&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:MemberEvent/2172396414</id>
+    <published>2014-07-04T14:58:44Z</published>
+    <updated>2014-07-04T14:58:44Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com"/>
+    <title type="html">kmcintyre added DarcvexiS to kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- member --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-person-addeded&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;added&lt;/span&gt; &lt;a href=&quot;/DarcvexiS&quot;&gt;DarcvexiS&lt;/a&gt; to &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2014-07-04T14:58:44Z&quot; is=&quot;relative-time&quot;&gt;July 04, 2014&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2171653429</id>
+    <published>2014-07-04T02:21:57Z</published>
+    <updated>2014-07-04T02:21:57Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/c3ac347069...37ea12d988"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-04T02:21:57Z&quot; is=&quot;relative-time&quot;&gt;July 04, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/37ea12d9885eacb7af5dc99df0ce24f916c2c8fa&quot;&gt;37ea12d&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2171629558</id>
+    <published>2014-07-04T01:46:01Z</published>
+    <updated>2014-07-04T01:46:01Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/d22609178e...c3ac347069"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-04T01:46:01Z&quot; is=&quot;relative-time&quot;&gt;July 04, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/c3ac347069e4f129c1bfaeb68d67023950290b7b&quot;&gt;c3ac347&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/f65e0ecbed94b9961a48bba197c1fda32bd17f0d&quot;&gt;f65e0ec&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/athleets.com/compare/d22609178e...c3ac347069&quot;&gt;View comparison for these 2 commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2171373610</id>
+    <published>2014-07-03T21:19:50Z</published>
+    <updated>2014-07-03T21:19:50Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/fe1f3191f3...d22609178e"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-03T21:19:50Z&quot; is=&quot;relative-time&quot;&gt;July 03, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/d22609178eccbdab38ad2fde4bfebe7e784a1658&quot;&gt;d226091&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/abca014131b4a46a68e1f99c86e0852ef5a1a308&quot;&gt;abca014&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/athleets.com/compare/fe1f3191f3...d22609178e&quot;&gt;View comparison for these 2 commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2171366965</id>
+    <published>2014-07-03T21:15:11Z</published>
+    <updated>2014-07-03T21:15:11Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/b1ae200595...fe1f3191f3"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-03T21:15:11Z&quot; is=&quot;relative-time&quot;&gt;July 03, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/fe1f3191f39dfa1c9c009e0bfb1d2bd67916cfd2&quot;&gt;fe1f319&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              logos
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2171365796</id>
+    <published>2014-07-03T21:14:21Z</published>
+    <updated>2014-07-03T21:14:21Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/b5c842cd20...b1ae200595"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-03T21:14:21Z&quot; is=&quot;relative-time&quot;&gt;July 03, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/b1ae20059513ad109d82802329a988f5f2616e8d&quot;&gt;b1ae200&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2171364392</id>
+    <published>2014-07-03T21:13:23Z</published>
+    <updated>2014-07-03T21:13:23Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/6c0d96f001...b5c842cd20"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-03T21:13:23Z&quot; is=&quot;relative-time&quot;&gt;July 03, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/b5c842cd206609761f7379d3aaba2a62e72fe01a&quot;&gt;b5c842c&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2171359496</id>
+    <published>2014-07-03T21:10:14Z</published>
+    <updated>2014-07-03T21:10:14Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/1c3b36ab2d...6c0d96f001"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-03T21:10:14Z&quot; is=&quot;relative-time&quot;&gt;July 03, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/6c0d96f0015c42da8375a389ab530b8f01bd9ce5&quot;&gt;6c0d96f&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              test
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2171358783</id>
+    <published>2014-07-03T21:09:45Z</published>
+    <updated>2014-07-03T21:09:45Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/87ddc5f6e2...1c3b36ab2d"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-03T21:09:45Z&quot; is=&quot;relative-time&quot;&gt;July 03, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/1c3b36ab2d0cc02d64d8ddfd2baa2661da15429d&quot;&gt;1c3b36a&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2171267128</id>
+    <published>2014-07-03T20:09:25Z</published>
+    <updated>2014-07-03T20:09:25Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/afc3a2474a...87ddc5f6e2"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-03T20:09:25Z&quot; is=&quot;relative-time&quot;&gt;July 03, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/87ddc5f6e209d623653e8db581479cef744e93c9&quot;&gt;87ddc5f&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2171261088</id>
+    <published>2014-07-03T20:05:30Z</published>
+    <updated>2014-07-03T20:05:30Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/f5df019af7...afc3a2474a"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-03T20:05:30Z&quot; is=&quot;relative-time&quot;&gt;July 03, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/afc3a2474a77fb77e010958772f59a0338076903&quot;&gt;afc3a24&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              lg
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2171258747</id>
+    <published>2014-07-03T20:04:09Z</published>
+    <updated>2014-07-03T20:04:09Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/360da818ec...f5df019af7"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-03T20:04:09Z&quot; is=&quot;relative-time&quot;&gt;July 03, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/f5df019af79f7cc0afb2eb3d8a29df23c341a677&quot;&gt;f5df019&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2171256187</id>
+    <published>2014-07-03T20:02:35Z</published>
+    <updated>2014-07-03T20:02:35Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/a3ffed6a32...360da818ec"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-03T20:02:35Z&quot; is=&quot;relative-time&quot;&gt;July 03, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/360da818ec33ed3b7a8ae1086da4716cdd55b8d7&quot;&gt;360da81&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2171251272</id>
+    <published>2014-07-03T19:59:31Z</published>
+    <updated>2014-07-03T19:59:31Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/398ef615bd...a3ffed6a32"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-03T19:59:31Z&quot; is=&quot;relative-time&quot;&gt;July 03, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/a3ffed6a32fab3ff1e7c1f3753aea6584e579ed4&quot;&gt;a3ffed6&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/c2fb3bda9447cfe80ac38eb424a2b382b033b73f&quot;&gt;c2fb3bd&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/athleets.com/compare/398ef615bd...a3ffed6a32&quot;&gt;View comparison for these 2 commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2167233365</id>
+    <published>2014-07-01T17:05:40Z</published>
+    <updated>2014-07-01T17:05:40Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/km_resume/compare/ae046b55a3...45199c0ef5"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/km_resume</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-01T17:05:40Z&quot; is=&quot;relative-time&quot;&gt;July 01, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/km_resume/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/km_resume&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/km_resume&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/km_resume/commit/45199c0ef5c985920ac518161a3500ddb0fdf8af&quot;&gt;45199c0&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              yo
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2166222998</id>
+    <published>2014-07-01T04:57:01Z</published>
+    <updated>2014-07-01T04:57:01Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/km_resume/compare/9f37e87c02...ae046b55a3"/>
+    <title type="html">kmcintyre pushed to master at kmcintyre/km_resume</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time datetime=&quot;2014-07-01T04:57:01Z&quot; is=&quot;relative-time&quot;&gt;July 01, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/km_resume/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/km_resume&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/km_resume&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/kmcintyre/km_resume/commit/ae046b55a32b187df051855ea26218f525dcfd8c&quot;&gt;ae046b5&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              change font
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:github.com,2008:PushEvent/2163691049</id>
     <published>2014-06-28T23:54:43Z</published>
@@ -234,990 +1248,6 @@
             &lt;/blockquote&gt;
           &lt;/div&gt;
         &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2161340125</id>
-    <published>2014-06-26T22:31:35Z</published>
-    <updated>2014-06-26T22:31:35Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/junkeet.com/compare/f42b3fc913...5210992891"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/junkeet.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-26T22:31:35Z&quot; is=&quot;relative-time&quot;&gt;June 26, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/junkeet.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/junkeet.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/junkeet.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/junkeet.com/commit/5210992891fde76cad77265aa92bc6ea4751dbb4&quot;&gt;5210992&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              add state
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2161302954</id>
-    <published>2014-06-26T22:05:11Z</published>
-    <updated>2014-06-26T22:05:11Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/junkeet.com/compare/fc2037028d...f42b3fc913"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/junkeet.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-26T22:05:11Z&quot; is=&quot;relative-time&quot;&gt;June 26, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/junkeet.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/junkeet.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/junkeet.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/junkeet.com/commit/f42b3fc913d005902ca6585ffd763d68e7f862f0&quot;&gt;f42b3fc&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              Add missing
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:MemberEvent/2161188341</id>
-    <published>2014-06-26T20:54:33Z</published>
-    <updated>2014-06-26T20:54:33Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/junkeet.com"/>
-    <title type="html">kmcintyre added nicolettetran to kmcintyre/junkeet.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- member --&gt;
-&lt;div class=&quot;simple&quot;&gt;
-  &lt;span class=&quot;octicon octicon-person-addeded&quot;&gt;&lt;/span&gt;
-
-  &lt;div class=&quot;title&quot;&gt;
-    &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;added&lt;/span&gt; &lt;a href=&quot;/nicolettetran&quot;&gt;nicolettetran&lt;/a&gt; to &lt;a href=&quot;https://github.com/kmcintyre/junkeet.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/junkeet.com&lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;time&quot;&gt;
-    &lt;time datetime=&quot;2014-06-26T20:54:33Z&quot; is=&quot;relative-time&quot;&gt;June 26, 2014&lt;/time&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:MemberEvent/2161187744</id>
-    <published>2014-06-26T20:54:10Z</published>
-    <updated>2014-06-26T20:54:10Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com"/>
-    <title type="html">kmcintyre added nicolettetran to kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- member --&gt;
-&lt;div class=&quot;simple&quot;&gt;
-  &lt;span class=&quot;octicon octicon-person-addeded&quot;&gt;&lt;/span&gt;
-
-  &lt;div class=&quot;title&quot;&gt;
-    &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;added&lt;/span&gt; &lt;a href=&quot;/nicolettetran&quot;&gt;nicolettetran&lt;/a&gt; to &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;time&quot;&gt;
-    &lt;time datetime=&quot;2014-06-26T20:54:10Z&quot; is=&quot;relative-time&quot;&gt;June 26, 2014&lt;/time&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2161124136</id>
-    <published>2014-06-26T20:17:06Z</published>
-    <updated>2014-06-26T20:17:06Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/junkeet.com/compare/0e1a741a38...fc2037028d"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/junkeet.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-26T20:17:06Z&quot; is=&quot;relative-time&quot;&gt;June 26, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/junkeet.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/junkeet.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/junkeet.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/junkeet.com/commit/fc2037028d29c91319e77e1acf649be5ba29b78a&quot;&gt;fc20370&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              moved to 25 high
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2159510165</id>
-    <published>2014-06-25T22:40:38Z</published>
-    <updated>2014-06-25T22:40:38Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/fc4a3addfb...99c6e832c8"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-25T22:40:38Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/99c6e832c8e87990b7b930bf8f1db31b26e7a629&quot;&gt;99c6e83&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              l/g
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2159509871</id>
-    <published>2014-06-25T22:40:23Z</published>
-    <updated>2014-06-25T22:40:23Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/junkeet.com/compare/b827abb3c7...0e1a741a38"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/junkeet.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-25T22:40:23Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/junkeet.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/junkeet.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/junkeet.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/junkeet.com/commit/0e1a741a389c01fbf4ab5f895327c6aee7191265&quot;&gt;0e1a741&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              l/g
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2159306689</id>
-    <published>2014-06-25T20:34:15Z</published>
-    <updated>2014-06-25T20:34:15Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/8f017edc54...fc4a3addfb"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-25T20:34:15Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/fc4a3addfb2ce31e2aa6259648f6f57c35948eb8&quot;&gt;fc4a3ad&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              lg
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/b6a5c4acaeb06577286e7f1a083f6ca4d03a3d62&quot;&gt;b6a5c4a&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              lg
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/athleets.com/compare/8f017edc54...fc4a3addfb&quot;&gt;View comparison for these 2 commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2159223360</id>
-    <published>2014-06-25T19:45:49Z</published>
-    <updated>2014-06-25T19:45:49Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/junkeet.com/compare/79d8b7de08...b827abb3c7"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/junkeet.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-25T19:45:49Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/junkeet.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/junkeet.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/junkeet.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/junkeet.com/commit/b827abb3c756b39045753926e7e34dc99c1df5d2&quot;&gt;b827abb&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              remove bash
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2159216176</id>
-    <published>2014-06-25T19:41:42Z</published>
-    <updated>2014-06-25T19:41:42Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/24ffcbddbf...8f017edc54"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-25T19:41:42Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/8f017edc541c0c860d423f4912f66bd80b8d3988&quot;&gt;8f017ed&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              l/g
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/1608bafec01b52ce37f329dc535f60af9f3a4a42&quot;&gt;1608baf&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              l/g
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/athleets.com/compare/24ffcbddbf...8f017edc54&quot;&gt;3 more commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2159213001</id>
-    <published>2014-06-25T19:39:53Z</published>
-    <updated>2014-06-25T19:39:53Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/bb0f74b523...24ffcbddbf"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-25T19:39:53Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/24ffcbddbf805fb2679a8d78a623c2fed7604036&quot;&gt;24ffcbd&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              logo-ify
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2159196420</id>
-    <published>2014-06-25T19:30:30Z</published>
-    <updated>2014-06-25T19:30:30Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/junkeet.com/compare/7bba19ac00...79d8b7de08"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/junkeet.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-25T19:30:30Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/junkeet.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/junkeet.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/junkeet.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/junkeet.com/commit/79d8b7de08b8a7722dc299f53d6f808452af9bd2&quot;&gt;79d8b7d&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              l/g
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:MemberEvent/2159104250</id>
-    <published>2014-06-25T18:38:03Z</published>
-    <updated>2014-06-25T18:38:03Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/junkeet.com"/>
-    <title type="html">kmcintyre added DarcvexiS to kmcintyre/junkeet.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- member --&gt;
-&lt;div class=&quot;simple&quot;&gt;
-  &lt;span class=&quot;octicon octicon-person-addeded&quot;&gt;&lt;/span&gt;
-
-  &lt;div class=&quot;title&quot;&gt;
-    &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;added&lt;/span&gt; &lt;a href=&quot;/DarcvexiS&quot;&gt;DarcvexiS&lt;/a&gt; to &lt;a href=&quot;https://github.com/kmcintyre/junkeet.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/junkeet.com&lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;time&quot;&gt;
-    &lt;time datetime=&quot;2014-06-25T18:38:03Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2159068505</id>
-    <published>2014-06-25T18:17:35Z</published>
-    <updated>2014-06-25T18:17:35Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/junkeet.com/compare/d13ffd634b...7bba19ac00"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/junkeet.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-25T18:17:35Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/junkeet.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/junkeet.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/junkeet.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/junkeet.com/commit/7bba19ac004027420bf4c8436621b1a374d45fea&quot;&gt;7bba19a&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              starting
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2159065585</id>
-    <published>2014-06-25T18:15:53Z</published>
-    <updated>2014-06-25T18:15:53Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/a272f34d5e...bb0f74b523"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-25T18:15:53Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/bb0f74b52301c32b1eea3db70038b991c0a05868&quot;&gt;bb0f74b&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              starter for NHL
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:CreateEvent/2158980057</id>
-    <published>2014-06-25T17:23:49Z</published>
-    <updated>2014-06-25T17:23:49Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/junkeet.com"/>
-    <title type="html">kmcintyre created repository kmcintyre/junkeet.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- create --&gt;
-&lt;div class=&quot;simple&quot;&gt;
-  &lt;span class=&quot;octicon octicon-repo&quot;&gt;&lt;/span&gt;
-
-  &lt;div class=&quot;title&quot;&gt;
-    &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;created&lt;/span&gt; repository &lt;a href=&quot;/kmcintyre/junkeet.com&quot; class=&quot;css-truncate css-truncate-target&quot; title=&quot;kmcintyre/junkeet.com&quot;&gt;kmcintyre/junkeet.com&lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;time&quot;&gt;
-    &lt;time datetime=&quot;2014-06-25T17:23:49Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2158966683</id>
-    <published>2014-06-25T17:15:20Z</published>
-    <updated>2014-06-25T17:15:20Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/3686129549...a272f34d5e"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-25T17:15:20Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/a272f34d5e2c35592d16b2e70df9c276f8881369&quot;&gt;a272f34&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              remove thumb
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2158965247</id>
-    <published>2014-06-25T17:14:29Z</published>
-    <updated>2014-06-25T17:14:29Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/d60f4f50b4...3686129549"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-25T17:14:29Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/3686129549625643a03d62f87134c5301dcfbd3f&quot;&gt;3686129&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              tweek
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2158849043</id>
-    <published>2014-06-25T16:06:46Z</published>
-    <updated>2014-06-25T16:06:46Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/80f9101562...d60f4f50b4"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-25T16:06:46Z&quot; is=&quot;relative-time&quot;&gt;June 25, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/d60f4f50b46e3eff3d5ec049e35eda5579ff75bd&quot;&gt;d60f4f5&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              no thumbs please
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/7d5a19e8507bdd1ddbd63b72cf2382ab4ac94783&quot;&gt;7d5a19e&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              clean up
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/athleets.com/compare/80f9101562...d60f4f50b4&quot;&gt;2 more commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:MemberEvent/2157180854</id>
-    <published>2014-06-24T18:23:39Z</published>
-    <updated>2014-06-24T18:23:39Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com"/>
-    <title type="html">kmcintyre added DarcvexiS to kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- member --&gt;
-&lt;div class=&quot;simple&quot;&gt;
-  &lt;span class=&quot;octicon octicon-person-addeded&quot;&gt;&lt;/span&gt;
-
-  &lt;div class=&quot;title&quot;&gt;
-    &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;added&lt;/span&gt; &lt;a href=&quot;/DarcvexiS&quot;&gt;DarcvexiS&lt;/a&gt; to &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;time&quot;&gt;
-    &lt;time datetime=&quot;2014-06-24T18:23:39Z&quot; is=&quot;relative-time&quot;&gt;June 24, 2014&lt;/time&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:MemberEvent/2157134362</id>
-    <published>2014-06-24T17:57:06Z</published>
-    <updated>2014-06-24T17:57:06Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com"/>
-    <title type="html">kmcintyre added madridnyc to kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- member --&gt;
-&lt;div class=&quot;simple&quot;&gt;
-  &lt;span class=&quot;octicon octicon-person-addeded&quot;&gt;&lt;/span&gt;
-
-  &lt;div class=&quot;title&quot;&gt;
-    &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;added&lt;/span&gt; &lt;a href=&quot;/madridnyc&quot;&gt;madridnyc&lt;/a&gt; to &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;time&quot;&gt;
-    &lt;time datetime=&quot;2014-06-24T17:57:06Z&quot; is=&quot;relative-time&quot;&gt;June 24, 2014&lt;/time&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2155535113</id>
-    <published>2014-06-23T20:52:49Z</published>
-    <updated>2014-06-23T20:52:49Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/8c5526c384...aeca0e37b0"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-23T20:52:49Z&quot; is=&quot;relative-time&quot;&gt;June 23, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;kmcintyre&quot;&gt;
-            &lt;img alt=&quot;Kevin McIntyre&quot; class=&quot; js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;16&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/aeca0e37b03bd564dd1032bb2b04f0d805b71dab&quot;&gt;aeca0e3&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              Delete fifa
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2155534262</id>
-    <published>2014-06-23T20:52:19Z</published>
-    <updated>2014-06-23T20:52:19Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/aaef7ed994...8c5526c384"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-23T20:52:19Z&quot; is=&quot;relative-time&quot;&gt;June 23, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/8c5526c384061caef6bb5259824d4451a2aac8fd&quot;&gt;8c5526c&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              icons/fifa/fifa
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/e418f23905b3c1e281b08af72af23e280b61c86a&quot;&gt;e418f23&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              ~
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/athleets.com/compare/aaef7ed994...8c5526c384&quot;&gt;View comparison for these 2 commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/2155490217</id>
-    <published>2014-06-23T20:26:16Z</published>
-    <updated>2014-06-23T20:26:16Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/925bfe960f...aaef7ed994"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1017886?s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;time datetime=&quot;2014-06-23T20:26:16Z&quot; is=&quot;relative-time&quot;&gt;June 23, 2014&lt;/time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;kmcintyre&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/kmcintyre/athleets.com&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;https://github.com/kmcintyre&quot;&gt;&lt;img alt=&quot;Kevin McIntyre&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;1017886&quot; height=&quot;30&quot; src=&quot;https://avatars1.githubusercontent.com/u/1017886?s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits &quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/aaef7ed994465d778a8388f0a3d60e92edcb163a&quot;&gt;aaef7ed&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              Now
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;Kevin McIntyre&quot;&gt;
-            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://0.gravatar.com/avatar/32d0c39b542f34a656cb6cabd5a2555f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/0f457d066cb40a97187f745a1629db8e1b87ff25&quot;&gt;0f457d0&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              now
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;https://github.com/kmcintyre/athleets.com/compare/925bfe960f...aaef7ed994&quot;&gt;View comparison for these 2 commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/div&gt;
 &lt;/div&gt;
