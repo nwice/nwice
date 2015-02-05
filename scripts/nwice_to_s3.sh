@@ -11,7 +11,7 @@ function checkDir {
     elif [[ `basename $f` != np_* ]] ; then
       dest_f="$2`basename $f`"
       echo "copy $f to $dest_f"
-      ~/6998159/s3copy.py -b www.nwice.com -f $f -t $dest_f -p public-read      
+      ~/6998159/s3copy.py -b nwice.com -f $f -t $dest_f -p public-read      
     fi
   done
 }
