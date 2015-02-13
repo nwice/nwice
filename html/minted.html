@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head>
+<title>interviews</title>
+<script type="text/javascript">
+function rearm() {
+	document.getElementById('legal_tender').value = to_st(to_array(document.getElementById('legal_tender').value, true))
+	var nc = new Array( to_array(document.getElementById('legal_tender').value).length )
+	for (var x = 0; x < nc.length; x++ ) {
+		nc[x] = 0
+	}
+	document.getElementById('coinage').value = to_st(nc)
+}
+
+function to_coin_st() {
+	var sb = new Array();
+	var lt = document.getElementById('legal_tender').value.split(',').length
+	for (var x = lt; x > 0;x--) {
+		if ( to_array(document.getElementById('coinage').value)[x-1] > 0 ) {
+			sb.push('' + to_array(document.getElementById('coinage').value)[x-1] + ' - ' + document.getElementById('legal_tender').value.split(',')[x-1] + '\'s'); 			
+		}
+	}
+	return sb.join('\n');
+}
+function to_st(value) {
+	return value.join(',');
+}
+
+function to_array(value, do_sort) {
+	var ta =  value.split(',')
+	ta.sort(function(a,b) { 
+		var sv = parseFloat(a) - parseFloat(b);
+		if ( do_sort ) { 
+			return sv
+		} else {
+			0;
+		}
+	}) 
+	return ta
+}
+
+function smallest_currency() {
+	return to_array(document.getElementById('legal_tender', true).value)[0]
+} 
+function incro(slot) {
+	var new_coinage = to_array(document.getElementById('coinage').value)
+	new_coinage[slot-1]++; 
+	document.getElementById('coinage').value = to_st(new_coinage);
+	var new_holdings = parseFloat(document.getElementById('holdings').value) - parseFloat(to_array(document.getElementById('legal_tender').value, true)[slot-1]);		
+	document.getElementById('holdings').value = new_holdings 
+	return new_holdings				
+} 
+
+function break_up(v) {
+	if ( v <= smallest_currency() )  {
+		if ( v == smallest_currency() )  {
+			incro(1)
+		} 
+		document.getElementById('coinage_list').value = to_coin_st()
+	} else {
+		console.log('float value:' + v);
+		for (var x = to_array(document.getElementById('legal_tender').value).length; x > 0;x--) {
+			console.log('x:' + x);
+			var current_denom = parseFloat(to_array(document.getElementById('legal_tender').value, true)[x-1]);
+			console.log(current_denom);
+			var potential_holdings = v - current_denom
+			console.log(potential_holdings);
+			if ( potential_holdings >= smallest_currency() ) {
+				var nv = incro(x);
+				return break_up(nv);
+			}   
+		}
+	} 
+}
+</script>
+</head>
+<body>
+<fieldset>
+legal tender:<input type="text" id="legal_tender" value="1,5" onBlur="rearm()">
+<br/>
+<blockquote>
+eval of ints or flotas expressed '.01,.05,.1.25,.5,1,2,5,10,20,50,100'
+</blockquote>
+</fieldset>
+<fieldset>
+current holdings: <input type="text" id="holdings" value="11">
+<blockquote>
+<button onclick="break_up(parseFloat(document.getElementById('holdings').value))">reduce</button> (any float will do)
+</blockquote>
+</fieldset>
+<fieldset>
+till: <input type="text" id="coinage" value=""><br/>
+english: <textarea id="coinage_list">
+</textarea>
+</fieldset>
+<script>
+rearm()
+</script>
+</body>
+</html>
