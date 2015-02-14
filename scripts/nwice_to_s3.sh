@@ -16,4 +16,4 @@ function checkDir {
   done
 }
 
-checkDir "/home/kevin/nwice/html/*" "/"
+checkDir "/home/ubuntu/nwice/html/*" "/"

@@ -1,26 +1,51 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
 <head>
-<title>interviews</title>
+<title>Interview with minted.com</title>
 <script type="text/javascript">
-function rearm() {
+var us = '.01,.05,.1,.25,.5,1,2,5,10,20,50,100';
+var ph = 0;
+function doit(arg1, arg2) {
+	document.getElementById('legal_tender').value = arg1;
+	document.getElementById('holdings').value = arg2;
+	document.getElementById('rerun').click();
+}
+
+function rearm() { 
 	document.getElementById('legal_tender').value = to_st(to_array(document.getElementById('legal_tender').value, true))
 	var nc = new Array( to_array(document.getElementById('legal_tender').value).length )
 	for (var x = 0; x < nc.length; x++ ) {
 		nc[x] = 0
 	}
 	document.getElementById('coinage').value = to_st(nc)
+	document.getElementById('coinage_list').value = '';
+	if ( ph == 0 ) {
+		document.getElementById('rerun').innerHTML = document.getElementById('holdings').value
+	}
 }
 
-function to_coin_st() {
+function coinage_list(as_value, as_count) {
 	var sb = new Array();
+	
+	var av = 0;
+	var ac = 0;
 	var lt = document.getElementById('legal_tender').value.split(',').length
 	for (var x = lt; x > 0;x--) {
 		if ( to_array(document.getElementById('coinage').value)[x-1] > 0 ) {
+			ac = ac + parseInt(to_array(document.getElementById('coinage').value)[x-1]);
+			av = av + document.getElementById('legal_tender').value.split(',')[x-1] * to_array(document.getElementById('coinage').value)[x-1]; 
 			sb.push('' + to_array(document.getElementById('coinage').value)[x-1] + ' - ' + document.getElementById('legal_tender').value.split(',')[x-1] + '\'s'); 			
 		}
 	}
-	return sb.join('\n');
+	if (as_value) {
+		return av;
+	} else if (as_count) {
+		return ac;
+	}
+	if ( parseFloat(document.getElementById('holdings').value) + ph > 0 ) {
+		sb.push('with remainder:' + (ph + parseFloat(document.getElementById('holdings').value))); 
+	};
+	document.getElementById('coinage_list').value = '' + (av+ph) + ' breaks into:\n' + sb.join('\n'); 
 }
 function to_st(value) {
 	return value.join(',');
@@ -51,50 +76,108 @@ function incro(slot) {
 	return new_holdings				
 } 
 
-function break_up(v) {
-	if ( v <= smallest_currency() )  {
-		if ( v == smallest_currency() )  {
-			incro(1)
-		} 
-		document.getElementById('coinage_list').value = to_coin_st()
-	} else {
-		console.log('float value:' + v);
-		for (var x = to_array(document.getElementById('legal_tender').value).length; x > 0;x--) {
-			console.log('x:' + x);
-			var current_denom = parseFloat(to_array(document.getElementById('legal_tender').value, true)[x-1]);
-			console.log(current_denom);
-			var potential_holdings = v - current_denom
-			console.log(potential_holdings);
-			if ( potential_holdings >= smallest_currency() ) {
-				var nv = incro(x);
-				return break_up(nv);
-			}   
+function break_up(v) {	
+	var al = to_array(document.getElementById('legal_tender').value).length;
+	for (var x = al; x > 0;x--) {
+		var current_denom = parseFloat(to_array(document.getElementById('legal_tender').value, true)[x-1]);
+		var potential_holdings = v - current_denom;		
+		if ( ( potential_holdings == 0 ) || ( potential_holdings < smallest_currency() && x == 1 ) ) {
+			incro(x)
+			coinage_list();
+			if ( potential_holdings > 0 ) {
+				var remainder = document.getElementById('holdings').value;
+				var tb =  coinage_list(false,true);
+				var tv = coinage_list(true,false);		
+				ph = potential_holdings;
+				document.getElementById('holdings').value = tv;
+				document.getElementById('rerun').click();				
+				document.getElementById('holdings').value = remainder;
+				ph = 0;	
+			} else {
+				return;
+			}
+		} else if ( potential_holdings >= smallest_currency() ) {
+			nv = incro(x);
+			return break_up(nv)
 		}
-	} 
+	}
 }
 </script>
+<style>
+body {
+font-size: 1.4em;
+}
+input, button, select, option, textarea {
+    font-size: 160%;
+}
+</style>
 </head>
 <body>
+<h4>Problem Solved to the best of my ability:</h4>
+<blockquote>
+My solution is more elegant than an interview requires, but it's fun to build models quickly!  Failing at a first step is sometimes the best part...could use 1 more pass, 
+but I encourage anybody to write better.
+</blockquote>
+<blockquote>
+	Starts in '<i><b>Awesome Edge Case</b></i>' mode <button onclick="doit('2,5', '11.5' )">Try It!</button>
+	 <dl>
+	  <dt>legal tender = 2,5 with reduce = 11.5 <b>which of the following solutions is better?</b></dt>
+	  <dd>2 - 5's and 1.5 remaining <b>or</b></dd>
+	  <dd>1 - 5's, 3 - 2's and .5 remaining</dd>
+	  <dt>least bills? or lowest remainder? (this works toward lowest remainder)</dt>
+	</dl> 
+</blockquote>
+<blockquote>
+	Float/Int blah mode:
+	 <dl>
+	  <dt>legal tender = US tender reduce = .27</dt>
+	  <dd><b>Is correct answer</b> but remainder gets messy float conversion
+	  <button onclick="doit( us, '.27' )">javascript < perfect!!</button>
+	  </dd>
+	</dl> 
+</blockquote>
 <fieldset>
-legal tender:<input type="text" id="legal_tender" value="1,5" onBlur="rearm()">
+legal tender:<input type="text" id="legal_tender" value="2,5" onBlur="rearm()">
 <br/>
 <blockquote>
-eval of ints or flotas expressed '.01,.05,.1.25,.5,1,2,5,10,20,50,100'
+ints and floats <b>ex</b>: US - '.01,.05,.1,.25,.5,1,2,5,10,20,50,100'
 </blockquote>
 </fieldset>
 <fieldset>
-current holdings: <input type="text" id="holdings" value="11">
+current holdings: <input type="text" id="holdings" value="11.5" onBlur="ph = 0; rearm()">
 <blockquote>
-<button onclick="break_up(parseFloat(document.getElementById('holdings').value))">reduce</button> (any float will do)
+<button id="rerun" onclick="if (parseFloat(document.getElementById('holdings').value) >= smallest_currency()) { rearm(); break_up(parseFloat(document.getElementById('holdings').value)) }"></button> (any float will do)
 </blockquote>
 </fieldset>
 <fieldset>
-till: <input type="text" id="coinage" value=""><br/>
-english: <textarea id="coinage_list">
+till: <input type="text" id="coinage" value=""> (it's backwards from normal money till)<br/>
+english: <textarea id="coinage_list" cols="50" rows="8">
 </textarea>
 </fieldset>
 <script>
 rearm()
 </script>
+<h4>Not Perfect</h4>
+<blockquote>
+	currency = 2,5,17 and reduce 25 - <button onclick="doit('2,5,17','25')">boo!</button> but <button onclick="doit('2,5,18','25')">yeah!</button>
+</blockquote>
+<h4>Pros of interviewer:</h4>
+<blockquote>
+Interviewer knew the company well and was a able to paint the stack verbally. 
+</blockquote>
+<blockquote>
+Interviewer keep the interview on time.
+</blockquote>
+<h4>Critique on interviewer:</h4>
+<blockquote>
+Interviewer works from home, so couldn't speak to culture as much as I might like.
+</blockquote>
+<h4>Summary</h4>
+<blockquote>
+In development these "loops" occur often.  In a programming group that fosters recursion, developers should challenge themselves and others to untangle these types of systems. 
+</blockquote>
+<blockquote>
+Thanks Minted.com!
+</blockquote> 
 </body>
 </html>
