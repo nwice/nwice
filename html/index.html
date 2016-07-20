@@ -20,10 +20,12 @@
 .sites li {
 	display: table-row;
 }
-.sites li a, .sites li span{
+
+.sites li a, .sites li span {
 	display: table-cell;
 	padding: 5px
 }
+
 body {
 	margin: auto; /* center in viewport */
 	width: 100%;
@@ -38,29 +40,29 @@ div {
 	padding: 10px
 }
 
-.activePane,.icon,.activeIcon,.tweet_hidden,.github_hidden {
+.activePane, .icon, .activeIcon, .tweet_hidden, .github_hidden {
 	display: none;
 }
 
-.pane {	
+.pane {
 	display: none;
 }
 
-.tweet_active,.github_active {
+.tweet_active, .github_active {
 	cursor: pointer;
 	display: block;
 }
 
-.reference { 
- 	margin:100px;
- 	opacity:0.33;
+.reference {
+	margin: 100px;
+	opacity: 0.33;
 }
 
 .activeLi {
 	padding-left: 20px;
 }
 
-.tweet_date,.github_date {
+.tweet_date, .github_date {
 	width: 50%;
 	text-align: right;
 	font-size: .75em;
@@ -77,14 +79,14 @@ div {
 	padding: 20px 0;
 }
 
-#nwicecloud,#nwicepane {
+#nwicecloud, #nwicepane {
 	padding: 20px
 }
 
 #tanks {
 	cursor: pointer;
 	position: absolute;
-	bottom:50px;
+	bottom: 50px;
 }
 
 #nwicepane p {
@@ -95,98 +97,8 @@ div {
 	cursor: pointer;
 }
 </style>
-
-<script type="text/javascript">
-
-$(document).ready(function() {
-
-	  $.ajax({
-			url: "github_rss.xml"
-		}).done(function ( data ) {
-			var $xml = $(data);
-			$xml.find("entry").each(function() {
-				var $this = $(this);
-				item = {
-					title: $this.find("content").text(),
-				}				
-				$('#github_feed').append("<div class=\"github_hidden\"><div>" + item.title + "<div class=\"github_date\"><button class=\"nwice_button\">>></button></div></div>");
-			});
-						
-			$('.github_hidden').first().attr('class', "github_active");
-			
-			$('#github_feed').find("a").each(function() {
-				if ( !$(this).attr('href').startsWith( "http" ) ) {
-					$(this).attr('href', "https://github.com" + $(this).attr('href') );
-				}
-				$(this).click( function(event) {
-					$(location).attr('href', $(this).attr('href'));
-					return false;
-				});
-			});
-			
-			$('#github_feed').click( function() {
-				$('#github_feed').find(".github_active").attr('class', "github_hidden").next().attr('class', "github_active");							
-			});	
-
-	  });				
-		
-	  $(window).resize(function() {	  	
-		$("#nwicemain").height($(window).height());		
-	  });
-	  
-	  $(window).resize();
-	  
-	  var latestclick = null;
-	  
-	  $(window).unload( function() {
-	  		console.info('unload');
-	    	if ( latestclick != null ) {
-	  			window.location = '#' + latestclick;
-	  		}
-	  	});
-	  	
-	  function navclick() {
-
-		$('.activePane').attr('class', 'pane').hide();
-	  	$('.activeIcon').attr('class', 'icon').hide();
-	  	$('.activeLi').removeClass('activeLi');
-	  	
-	  	//window.location = '#' + $(this).attr('id');
-	    //lastclick = $(this).attr('id');
-	    document.cookie = "lastclick=" + $(this).attr('id');
-	    
-	    $(this).attr('class', 'activeLi');
-		$('#' + $(this).attr('id') + '_info').attr('class', 'activePane');
-		
-		angle = Math.random()*360;
-		$('#' + $(this).attr('id') + '_svg').attr('class', 'activeIcon').css({position:"relative", top:75 * Math.cos(angle), left:75 * Math.sin(angle)});
-		$('.activeIcon').animate( 
-			{ top:0, left:0, opacity: "show" }, 
-			1000,
-			"swing",
-			function () {
-				$('.activePane').animate( { opacity: "show" }, 1000 ) 						
-			}
-		);
-	  }
-	  
-	  $("#nwicecloud").find('li').click(navclick);	  	  
-	  $("#tanks").click(navclick);
-
-	  var results = document.cookie.match ( '(^|;) ?lastclick=([^;]*)(;|$)' );
-	  if ( results != null ) {
-	  	$('#' + unescape ( results[2] ) ).click();
-	  } else if ( window.location.hash ) {
-	  	$(window.location.hash).click();
-	  } else {
-	    $('#welcome').click();
-	  } 
-})
-</script>
-
 </head>
 <body>
-
 	<div class="yui3-g">
 		<div class="yui3-u-1-4">
 			<div id="nwicecloud">
@@ -194,9 +106,9 @@ $(document).ready(function() {
 					<li id="welcome">nwice.com</li>
 					<li id="cloud">mornin'</li>
 					<li id="scewpt">scewpt</li>
-					<li id="card">card</li>										
-					<li id="resume">resume</li>																			
-					<li id="contact">contact</li>					
+					<li id="card">card</li>
+					<li id="resume">resume</li>
+					<li id="contact">contact</li>
 					<li id="github">github</li>
 				</ul>
 
@@ -210,137 +122,196 @@ $(document).ready(function() {
 				<img class="icon" id="welcome_svg" src="svg/welcome.svg"
 					alt="Welcome to Nwice.com" /><img class="icon" id="resume_svg"
 					src="svg/pdf.svg" alt="" /><img class="icon" id="scripts_svg"
-					src="svg/script.svg" alt="" /><img class="icon" id="scewpt_svg" alt="" /><img
-					class="icon" id="cloud_svg" src="svg/cloud.svg" alt="" /><img
-					class="icon" id="card_svg" src="svg/playing_card.svg" alt="" /><img
-					class="icon" id="barapp_svg" src="svg/bar.svg" alt="" /><img
-					class="icon" id="contact_svg" src="svg/contact.svg" alt="" /><img
-					class="icon" id="twitter_svg" src="svg/bird.svg" alt="" /><img
-					class="icon" id="github_svg" src="svg/source_code.svg" alt="" /><img
+					src="svg/script.svg" alt="" /><img class="icon" id="cloud_svg" src="svg/cloud.svg"
+					alt="" /><img class="icon" id="card_svg"
+					src="svg/playing_card.svg" alt="" /><img class="icon"
+					id="scewpt_svg" src="svg/bar.svg" alt="" /><img class="icon"
+					id="contact_svg" src="svg/contact.svg" alt="" /><img class="icon"
+					id="twitter_svg" src="svg/bird.svg" alt="" /><img class="icon"
+					id="github_svg" src="svg/source_code.svg" alt="" /><img
 					class="icon" id="tanks_svg" alt="" />
 
 				<div class="pane" id="welcome_info">
 					<p>Hi, welcome to nwice.com</p>
-					<p>Future home of the Sean Connery whirling dervisher.</p>					
+					<p>Future home of the Sean Connery whirling dervisher.</p>
 					<p>presently working on:</p>
-					<ul class="sites" style="margin-left:-10px">
-						
-						<li><a href="http://athleets.com">athleets.com</a> 
-							<span>11K Pro Athletes
-						<li><a href="http://bringwood.com">bringwood.com</a>
-							<span>Hollywood</span>
-						<li><a href="http://d1tweets.com">d1tweets.com</a>
-							<span>Div. 1 Football</span>
-						<li><a href="http://junkeet.com">junkeet.com</a>
-							<span>Elected Officials and Big Money</span>
-						<li><a href="http://ventorta.com">ventorta.com</a>
-							<span>Market, Venture and Start-ups</span>						
-						<li><a href="http://redlinetweet.com">redlinetweet.com</a>
-							<span>Motor-Sports</span>						
-						<li><a href="http://poker.com">pokertalon.com</a>
-							<span>WSOP Poker</span>					
-						<li><a href="http://ridertweet.com">ridertweet.com</a>
-							<span>Boards, Bikes and Squeeze</span>
-						<li><a href="http://e2brute.com">e2brute.com</a> 
-							<span>Socially Famous</span>
-						<li><a href="http://skintweet.com">skintweet.com</a> 
-							<span>Porn whatnot</span>  						
+					<ul class="sites" style="margin-left: -10px">
+
+						<li><a href="http://athleets.com">athleets.com</a> <span>11K
+								Pro Athletes
+								<li><a href="http://bringwood.com">bringwood.com</a> <span>Hollywood</span>
+							<li><a href="http://d1tweets.com">d1tweets.com</a> <span>Div.
+										1 Football</span>
+							<li><a href="http://junkeet.com">junkeet.com</a> <span>Elected
+										Officials and Big Money</span>
+							<li><a href="http://ventorta.com">ventorta.com</a> <span>Market,
+										Venture and Start-ups</span>
+							<li><a href="http://redlinetweet.com">redlinetweet.com</a> <span>Motor-Sports</span>
+							<li><a href="http://poker.com">pokertalon.com</a> <span>WSOP
+										Poker</span>
+							<li><a href="http://ridertweet.com">ridertweet.com</a> <span>Boards,
+										Bikes and Squeeze</span>
+							<li><a href="http://e2brute.com">e2brute.com</a> <span>Socially
+										Famous</span>
+							<li><a href="http://skintweet.com">skintweet.com</a> <span>Porn
+										whatnot</span>
 					</ul>
-					
-					<p>Using requirejs, jquery, autobahnjs and server side python twisted, xvfb, qtwebkit, dynamo db, cloudfront, ec2, s3</p>					
-					
-					<p class="reference">Website of Kevin James McIntyre, software developer living in California.</p>
+
+					<p>Using requirejs, jquery, autobahnjs and server side python
+						twisted, xvfb, qtwebkit, dynamo db, cloudfront, ec2, s3</p>
+
+					<p class="reference">Website of Kevin James McIntyre, software
+						developer living in California.</p>
 				</div>
 
 				<div class="pane" id="scewpt_info">
-					<p><a href="http://www.scewpt.com">Scewpt Inbox</a> indisposible email</p>
-					<p>See <a href="http://morningoogle.com/">morning google</a> QT opencv avconv mashup</p>
-					
 					<p>
-					Extends my <a href="http://twistedmatrix.com">python twisted</a> learnings from 
-					<a href="https://github.com/kmcintyre/gardenpath">gardenpath</a>.
-					</p>				
-					<p>
-					I've found python fun because it's range across the stack, 
-					meaning it can sniff packets, manage ssl/tls, handle events, and 'be' in the cloud with relative ease.
+						<a href="http://www.scewpt.com">Scewpt Inbox</a> indisposible
+						email
 					</p>
-				</div>				
-				
+					<p>
+						See <a href="http://morningoogle.com/">morning google</a> QT
+						opencv avconv mashup
+					</p>
+
+					<p>
+						Extends my <a href="http://twistedmatrix.com">python twisted</a>
+						learnings from <a href="https://github.com/kmcintyre/gardenpath">gardenpath</a>.
+					</p>
+					<p>I've found python fun because it's range across the stack,
+						meaning it can sniff packets, manage ssl/tls, handle events, and
+						'be' in the cloud with relative ease.</p>
+				</div>
+
 				<div class="pane" id="card_info">
-					<p>Follow the WSOP <a href="http://pokertalon.com">pokertalon.com</a> - Poker's claw</p>
-				
-					<p>Splash page to upcoming HTML5 blackjack app <a href="http://blackjack4all.com">blackjack4all</a></p>
-				
-					<p>My <a href="http://card.nwice.com">android applicaton</a> built using AndEngine and ADT/Eclipse.</p>				
+					<p>
+						Follow the WSOP <a href="http://pokertalon.com">pokertalon.com</a>
+						- Poker's claw
+					</p>
+
+					<p>
+						Splash page to upcoming HTML5 blackjack app <a
+							href="http://blackjack4all.com">blackjack4all</a>
+					</p>
+
+					<p>
+						My <a href="http://card.nwice.com">android applicaton</a> built
+						using AndEngine and ADT/Eclipse.
+					</p>
 					<p>
 						Download Nwice Card at <a
-						href="https://play.google.com/store/apps/details?id=com.nwice.card">Google
-						Play</a>.
+							href="https://play.google.com/store/apps/details?id=com.nwice.card">Google
+							Play</a>.
 					</p>
 					<p>
-						An HTML version of <a 0 days Rock - Hard Place href="http://card.nwice.com/war.html">War!</a> and <a
-							href="http://card.nwice.com/automate.html">Cat's Game Finder</a> hosted on Amazon's CloudFront.
+						An HTML version of <a 0 days Rock - Hard Place
+							href="http://card.nwice.com/war.html">War!</a> and <a
+							href="http://card.nwice.com/automate.html">Cat's Game Finder</a>
+						hosted on Amazon's CloudFront.
 					</p>
 					<p class="reference">
-						<a href="https://github.com/kmcintyre/card">Source code</a> at github.
+						<a href="https://github.com/kmcintyre/card">Source code</a> at
+						github.
 					</p>
-				</div>				
+				</div>
 
 				<div class="pane" id="barapp_info">
 					<p>Barapp is a web application utilizing spring & hibernate.</p>
 					<p class="reference">
-						<a href="https://github.com/kmcintyre/barapp">Source code</a> at github.
+						<a href="https://github.com/kmcintyre/barapp">Source code</a> at
+						github.
 					</p>
 				</div>
 
-				<div class="pane" id="cloud_info">					
-					<article itemprop="text" class="markdown-body entry-content">							
-						<p><a title="MorninGoogle" href="http://morningoogle.com">morningoogle.com</a> - a mash-up of google search and audio</p>						
-						
-						<h2><a aria-hidden="true" href="#back-end" class="anchor" id="user-content-back-end"><svg width="16" viewBox="0 0 16 16" version="1.1" height="16" class="octicon octicon-link" aria-hidden="true"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>Back-end</h2>
-						
-						<p><a href="https://twistedmatrix.com">python twisted</a>, <a href="http://doc.qt.io/qt-5">Qt5</a>, <a href="http://opencv.org">OpenCV</a>, <a href="http://github.com/boto/boto3">Boto3</a> and <a href="http://www.imagemagick.org">ImageMagick</a></p>
-						
-						<p>My review of <a href="https://aws.amazon.com/elastictranscoder">Amazon Elastic Transcoder</a> and <a href="https://aws.amazon.com/lambda">AWS Lambda</a> is that Lambda needs GPU.  </p>
-						
-						<h2><a aria-hidden="true" href="#front-end" class="anchor" id="user-content-front-end"><svg width="16" viewBox="0 0 16 16" version="1.1" height="16" class="octicon octicon-link" aria-hidden="true"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>Front-end</h2>
-						
-						<p>The front-end is server-side rendered <a href="http://jade-lang.com">Jade</a> and <a href="http://expressjs.com">Express</a> published via <a href="https://gist.github.com/kmcintyre/6998159">s3copy.py</a> to <a href="http://aws.amazon.com/s3/">Amazon S3</a></p>
-						
-						<p><a href="http://www.youtube.com/watch?v=BeutJydMRKE"><img style="max-width:100%;" data-canonical-src="http://img.youtube.com/vi/BeutJydMRKE/0.jpg" alt="Morning Google from 2014-05-20" src="https://camo.githubusercontent.com/c90b84294f86bd5976dab7b42e7c2b73dca5e9b9/687474703a2f2f696d672e796f75747562652e636f6d2f76692f426575744a79644d524b452f302e6a7067"></a></p>
+				<div class="pane" id="cloud_info">
+					<article itemprop="text" class="markdown-body entry-content">
+						<p>
+							<a title="MorninGoogle" href="http://morningoogle.com">morningoogle.com</a>
+							- a mash-up of google search and audio
+						</p>
+
+						<h2>
+							<a aria-hidden="true" href="#back-end" class="anchor"
+								id="user-content-back-end"><svg width="16"
+									viewBox="0 0 16 16" version="1.1" height="16"
+									class="octicon octicon-link" aria-hidden="true">
+									<path
+										d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z" /></svg></a>Back-end
+						</h2>
+
+						<p>
+							<a href="https://twistedmatrix.com">python twisted</a>, <a
+								href="http://doc.qt.io/qt-5">Qt5</a>, <a
+								href="http://opencv.org">OpenCV</a>, <a
+								href="http://github.com/boto/boto3">Boto3</a> and <a
+								href="http://www.imagemagick.org">ImageMagick</a>
+						</p>
+
+						<p>
+							My review of <a href="https://aws.amazon.com/elastictranscoder">Amazon
+								Elastic Transcoder</a> and <a href="https://aws.amazon.com/lambda">AWS
+								Lambda</a> is that Lambda needs GPU.
+						</p>
+
+						<h2>
+							<a aria-hidden="true" href="#front-end" class="anchor"
+								id="user-content-front-end"><svg width="16"
+									viewBox="0 0 16 16" version="1.1" height="16"
+									class="octicon octicon-link" aria-hidden="true">
+									<path
+										d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z" /></svg></a>Front-end
+						</h2>
+
+						<p>
+							The front-end is server-side rendered <a
+								href="http://jade-lang.com">Jade</a> and <a
+								href="http://expressjs.com">Express</a> published via <a
+								href="https://gist.github.com/kmcintyre/6998159">s3copy.py</a>
+							to <a href="http://aws.amazon.com/s3/">Amazon S3</a>
+						</p>
+
+						<p>
+							<a href="http://www.youtube.com/watch?v=BeutJydMRKE"><img
+								style="max-width: 100%;"
+								data-canonical-src="http://img.youtube.com/vi/BeutJydMRKE/0.jpg"
+								alt="Morning Google from 2014-05-20"
+								src="https://camo.githubusercontent.com/c90b84294f86bd5976dab7b42e7c2b73dca5e9b9/687474703a2f2f696d672e796f75747562652e636f6d2f76692f426575744a79644d524b452f302e6a7067"></a>
+						</p>
 					</article>
-					
+
 				</div>
 
 				<div class="pane" id="resume_info">
-					<p><a href="resume/Resume_of_Kevin_McIntyre.pdf">pdf</a> <del>word</del></p>
 					<p>
-						Generated with FOP, XML/XSLT, and Maven.
+						<a href="resume/Resume_of_Kevin_McIntyre.pdf">pdf</a>
+						<del>word</del>
 					</p>
-					<p>I'm currently on the job market.</p>					
+					<p>Generated with FOP, XML/XSLT, and Maven.</p>
+					<p>I'm currently on the job market.</p>
 					<p class="reference">
-						<a href="https://github.com/kmcintyre/km_resume">Source code</a> at github.
-					</p>					
-				</div>				
-				
-				<div class="pane" id="scripts_info">
-				
-					<p>
-						Recently started scripts repo;
-						<br>
-						bash utilities, cheatsheets of common calls, starter blanks 
+						<a href="https://github.com/kmcintyre/km_resume">Source code</a>
+						at github.
 					</p>
-				
+				</div>
+
+				<div class="pane" id="scripts_info">
+
+					<p>
+						Recently started scripts repo; <br> bash utilities,
+						cheatsheets of common calls, starter blanks
+					</p>
+
 					<p>
 						<a href="scripts/index.html">http://nwice.com/scripts</a>
 					<p>
-				</div>				
+				</div>
 
 
 				<div class="pane" id="barapp_info">
 					<p>Barapp is a web application utilizing spring & hibernate.</p>
 					<p class="reference">
-						<a href="https://github.com/kmcintyre/barapp">Source code</a> at github.
+						<a href="https://github.com/kmcintyre/barapp">Source code</a> at
+						github.
 					</p>
 				</div>
 
@@ -349,12 +320,11 @@ $(document).ready(function() {
 						Email me at <a href="mailto:kevin70@yahoo.com">kevin70@yahoo.com</a>
 						or <a href="mailto:kebin70@gmail.com">kebin70@gmail.com</a>.
 					</p>
-					<p>
-						Cell: 718-249-5058
-					</p>
+					<p>Cell: 718-249-5058</p>
 					<p>Skype Handle: kebin_70</p>
 					<p>
-						yambaby <a href="https://twitter.com/freelancerstea">Green Tea Fan</a>.
+						yambaby <a href="https://twitter.com/freelancerstea">Green Tea
+							Fan</a>.
 					</p>
 				</div>
 				<div class="pane" id="github_info">
@@ -363,7 +333,7 @@ $(document).ready(function() {
 						released at <a href="https://github.com/kmcintyre">github</a>.
 					</p>
 					<div id="github_feed"></div>
-															
+
 				</div>
 				<div class="pane" id="tanks_info">
 					<p>
@@ -378,12 +348,14 @@ $(document).ready(function() {
 							href="http://thenounproject.com/jamison" target="_blank">Jamison
 							Wieser</a> from The Noun Project
 					</p>
-					
+
 					<p>
-						<a href="http://thenounproject.com/noun/scroll/#icon-No14610" target="_blank">Scroll</a> 
-						designed by <a href="http://thenounproject.com/weashell" target="_blank">Veysel Kara</a> from The Noun Project
+						<a href="http://thenounproject.com/noun/scroll/#icon-No14610"
+							target="_blank">Scroll</a> designed by <a
+							href="http://thenounproject.com/weashell" target="_blank">Veysel
+							Kara</a> from The Noun Project
 					</p>
-					
+
 					<p>Playing Cards Designed by Andy Santos-Johnson</p>
 					<p>Bar Collaboration by Roger Cook & Don Shanosky</p>
 					<p>
@@ -411,6 +383,152 @@ $(document).ready(function() {
 			</div>
 		</div>
 	</div>
+	<script type="text/javascript">
+	$(document)
+    .ready(
+        function() {
+
+            $.ajax({url: "github_rss.xml"}).done(
+                    function(data) {
+                        var $xml = $(data);
+                        $xml
+                            .find("entry")
+                            .each(
+                                function() {
+                                    var $this = $(this);
+                                    item = {
+                                        title: $this
+                                            .find(
+                                                "content")
+                                            .text(),
+                                    }
+                                    $(
+                                            '#github_feed')
+                                        .append(
+                                            "<div class=\"github_hidden\"><div>" +
+                                            item.title +
+                                            "<div class=\"github_date\"><button class=\"nwice_button\">>></button></div></div>");
+                                });
+
+                        $('.github_hidden')
+                            .first()
+                            .attr('class',
+                                "github_active");
+
+                        $('#github_feed')
+                            .find("a")
+                            .each(
+                                function() {
+                                    if (!$(this)
+                                        .attr(
+                                            'href')
+                                        .startsWith(
+                                            "http")) {
+                                        $(this)
+                                            .attr(
+                                                'href',
+                                                "https://github.com" +
+                                                $(
+                                                    this)
+                                                .attr(
+                                                    'href'));
+                                    }
+                                    $(this)
+                                        .click(
+                                            function(
+                                                event) {
+                                                $(
+                                                        location)
+                                                    .attr(
+                                                        'href',
+                                                        $(
+                                                            this)
+                                                        .attr(
+                                                            'href'));
+                                                return false;
+                                            });
+                                });
+
+                        $('#github_feed')
+                            .click(
+                                function() {
+                                    $(
+                                            '#github_feed')
+                                        .find(
+                                            ".github_active")
+                                        .attr(
+                                            'class',
+                                            "github_hidden")
+                                        .next()
+                                        .attr(
+                                            'class',
+                                            "github_active");
+                                });
+
+                    });
+
+            $(window).resize(function() {
+                $("#nwicemain").height($(window).height());
+            });
+
+            $(window).resize();
+
+            var latestclick = null;
+
+            $(window).unload(function() {
+                console.info('unload');
+                if (latestclick != null) {
+                    window.location = '#' + latestclick;
+                }
+            });
+
+            function navclick() {
+
+                $('.activePane').attr('class', 'pane').hide();
+                $('.activeIcon').attr('class', 'icon').hide();
+                $('.activeLi').removeClass('activeLi');
+
+                //window.location = '#' + $(this).attr('id');
+                //lastclick = $(this).attr('id');
+                document.cookie = "lastclick=" +
+                    $(this).attr('id');
+
+                $(this).attr('class', 'activeLi');
+                $('#' + $(this).attr('id') + '_info').attr(
+                    'class', 'activePane');
+
+                angle = Math.random() * 360;
+                $('#' + $(this).attr('id') + '_svg').attr(
+                    'class', 'activeIcon').css({
+                    position: "relative",
+                    top: 75 * Math.cos(angle),
+                    left: 75 * Math.sin(angle)
+                });
+                $('.activeIcon').animate({
+                    top: 0,
+                    left: 0,
+                    opacity: "show"
+                }, 1000, "swing", function() {
+                    $('.activePane').animate({
+                        opacity: "show"
+                    }, 1000)
+                });
+            }
+
+            $("#nwicecloud").find('li').click(navclick);
+            $("#tanks").click(navclick);
+
+            var results = document.cookie
+                .match('(^|;) ?lastclick=([^;]*)(;|$)');
+            if (results != null) {
+                $('#' + unescape(results[2])).click();
+            } else if (window.location.hash) {
+                $(window.location.hash).click();
+            } else {
+                $('#welcome').click();
+            }
+        })
+	</script>
 
 </body>
 </html>
