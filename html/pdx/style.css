@@ -1,3 +1,71 @@
-md-sidenav, md-sidenav.md-locked-open, md-sidenav.md-closed.md-locked-open-add-active {
-    position:relative;
+.sites li {
+	display: table-row;
+}
+
+.sites li a, .sites li span {
+	display: table-cell;
+	padding: 5px
+}
+
+body {
+	margin: auto; /* center in viewport */
+	width: 100%;
+	font-size: 1.75em;
+}
+
+.activePane, .icon, .activeIcon, .tweet_hidden, .github_hidden {
+	display: none;
+}
+
+.pane {
+	display: none;
+}
+
+.tweet_active, .github_active {
+	cursor: pointer;
+	display: block;
+}
+
+.reference {
+	margin: 100px;
+	opacity: 0.33;
+}
+
+.activeLi {
+	padding-left: 20px;
+}
+
+.tweet_date, .github_date {
+	width: 50%;
+	text-align: right;
+	font-size: .75em;
+	color: gray;
+	padding: 10px;
+}
+
+.nwice_button {
+	margin: 5px 0 5px 10px;
+	font-size: 1.25em;
+}
+
+#github_feed {
+	padding: 20px 0;
+}
+
+#nwicecloud, #nwicepane {
+	padding: 20px
+}
+
+#tanks {
+	cursor: pointer;
+	position: absolute;
+	bottom: 50px;
+}
+
+#nwicepane p {
+	padding: 10px 0 10px 0;
+}
+
+#nwicecloud ul {
+	cursor: pointer;
 }
