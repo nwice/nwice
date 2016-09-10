@@ -1,0 +1,14 @@
+server {
+    listen       80;
+    server_name ~^((?<subdomain>.*)\.)?(?<domain>[^.]+)\.(?<tld>[^.]+)$;
+    location / {
+        # don't always know who ~is
+        root  /usr/share/nginx/$domain;
+        index index.html;
+        autoindex  on;
+    }
+    location @maintenance {
+        root /media/twitter;
+        try_files $uri $uri/ /index.html =503;
+    }
+}
