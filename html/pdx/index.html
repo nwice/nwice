@@ -1,58 +1,168 @@
 <!DOCTYPE html>
-<html>
-   <head>
-      <title>D1tweets - Evaluating players via social analytics</title>
-      <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.css">
-      <link rel="stylesheet" href="style.css">
-      <link rel="icon" href="favicon.ico" type="image/x-icon">
-      <link rel="shortcut" href="favicon.ico" type="image/x-icon">
-   </head>
-   <body ng-app="app" ng-controller="appCtrl" ng-cloak>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head>
+<title>D1tweets - Evaluating players via social analytics</title>
 
-		<div>
-		Tunsil - <img src="http://i2.cdn.turner.com/cnnnext/dam/assets/160429075026-laremy-tunsil-bong-large-169.jpg"/>
-		
-		But he's nike signed.  Why?
-		</div>
-		<div>
-		Totals 
-		</div>
-		<div>
-		Tech Stack
-		</div>
-		<div>
-		Lesson learned to Date
-		</div>
-		<div>
-		???
-		</div>
-		<div>
-		Player Analysis Fournette vs: Dalvin Cook
-		
-		Who should Nike sign?
-		</div>
-		<div>
-		Team Cohension Seahawks vs: Clemson
-		</div>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
+<script type="text/javascript"
+	src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 
-      <script
-         src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular.min.js"></script>
-      <script
-         src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-animate.min.js"></script>
-      <script
-         src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-aria.min.js"></script>
-      <script
-         src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-messages.min.js"></script>
-      <script
-         src="http://ngmaterial.assets.s3.amazonaws.com/svg-assets-cache.js"></script>
-      <script
-         src="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.js"></script>
+<link rel="stylesheet" type="text/css"
+	href="http://yui.yahooapis.com/3.8.0/build/cssreset/cssreset-min.css">
+<link rel="stylesheet" type="text/css"
+	href="http://yui.yahooapis.com/3.8.0/build/cssgrids/grids-min.css">
 
-      <script type="text/javascript">    
-         angular.module('app',['ngMaterial', 'ngMessages', 'material.svgAssetsCache']).controller('appCtrl', function($scope, $timeout) {
-        	 console.log('hello');
-         });        
-      </script>
-   </body>
+<style>
+.sites li {
+	display: table-row;
+}
+
+.sites li a, .sites li span {
+	display: table-cell;
+	padding: 5px
+}
+
+body {
+	margin: auto; /* center in viewport */
+	width: 100%;
+	font-size: 1.75em;
+}
+
+.activePane, .icon, .activeIcon, .tweet_hidden, .github_hidden {
+	display: none;
+}
+
+.pane {
+	display: none;
+}
+
+.tweet_active, .github_active {
+	cursor: pointer;
+	display: block;
+}
+
+.reference {
+	margin: 100px;
+	opacity: 0.33;
+}
+
+.activeLi {
+	padding-left: 20px;
+}
+
+.tweet_date, .github_date {
+	width: 50%;
+	text-align: right;
+	font-size: .75em;
+	color: gray;
+	padding: 10px;
+}
+
+.nwice_button {
+	margin: 5px 0 5px 10px;
+	font-size: 1.25em;
+}
+
+#github_feed {
+	padding: 20px 0;
+}
+
+#nwicecloud, #nwicepane {
+	padding: 20px
+}
+
+#tanks {
+	cursor: pointer;
+	position: absolute;
+	bottom: 50px;
+}
+
+#nwicepane p {
+	padding: 10px 0 10px 0;
+}
+
+#nwicecloud ul {
+	cursor: pointer;
+}
+</style>
+</head>
+<body>
+	<div class="yui3-g">
+		<div class="yui3-u-1-5">
+			<div id="nwicecloud">
+				<ul>
+					<li id="slide1">slide1</li>
+					<li id="slide2">slide2</li>
+				</ul>
+			</div>
+		</div>
+		<div class="yui3-u-3-4">
+			<div id="nwicepane">
+				<div class="pane" id="slide1_info">
+					slide1
+				</div>
+				<div class="pane" id="slide2_info">
+					slide2
+				</div>				
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+	$(document)
+    .ready(
+        function() {
+
+            $(window).resize(function() {
+                $("#nwicemain").height($(window).height());
+            });
+
+            $(window).resize();
+
+            var latestclick = null;
+
+            $(window).unload(function() {
+                console.info('unload');
+                if (latestclick != null) {
+                    window.location = '#' + latestclick;
+                }
+            });
+
+            function navclick() {
+
+                $('.activePane').attr('class', 'pane').hide();
+                $('.activeIcon').attr('class', 'icon').hide();
+                $('.activeLi').removeClass('activeLi');
+
+                //window.location = '#' + $(this).attr('id');
+                //lastclick = $(this).attr('id');
+                document.cookie = "lastclick=" +
+                    $(this).attr('id');
+
+                $(this).attr('class', 'activeLi');
+                $('#' + $(this).attr('id') + '_info').attr(
+                    'class', 'activePane');
+
+                angle = Math.random() * 360;
+                
+                $('.activePane').animate({
+                    opacity: "show"
+                }, 1000)
+            }
+
+            $("#nwicecloud").find('li').click(navclick);
+
+            var results = document.cookie
+                .match('(^|;) ?lastclick=([^;]*)(;|$)');
+            if (results != null) {
+                $('#' + unescape(results[2])).click();
+            } else if (window.location.hash) {
+                $(window.location.hash).click();
+            } else {
+                $('#slide1').click();
+            }
+        })
+	</script>
+
+</body>
 </html>

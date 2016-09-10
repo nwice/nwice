@@ -1,0 +1,2773 @@
+[
+   {
+      "count":559,
+      "league":"bpl",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":30,
+            "twitter_count":22,
+            "team":"AFC Bournemouth"
+         },
+         {
+            "count":30,
+            "twitter_count":26,
+            "team":"Arsenal"
+         },
+         {
+            "count":23,
+            "twitter_count":12,
+            "team":"Burnley"
+         },
+         {
+            "count":25,
+            "twitter_count":20,
+            "team":"Chelsea"
+         },
+         {
+            "count":24,
+            "twitter_count":18,
+            "team":"Crystal Palace"
+         },
+         {
+            "count":25,
+            "twitter_count":18,
+            "team":"Everton"
+         },
+         {
+            "count":32,
+            "twitter_count":18,
+            "team":"Hull City"
+         },
+         {
+            "count":25,
+            "twitter_count":19,
+            "team":"Leicester City"
+         },
+         {
+            "count":28,
+            "twitter_count":18,
+            "team":"Liverpool"
+         },
+         {
+            "count":26,
+            "twitter_count":21,
+            "team":"Manchester City"
+         },
+         {
+            "count":27,
+            "twitter_count":26,
+            "team":"Manchester United"
+         },
+         {
+            "count":27,
+            "twitter_count":16,
+            "team":"Middlesbrough"
+         },
+         {
+            "count":24,
+            "twitter_count":18,
+            "team":"Southampton"
+         },
+         {
+            "count":28,
+            "twitter_count":16,
+            "team":"Stoke City"
+         },
+         {
+            "count":32,
+            "twitter_count":19,
+            "team":"Sunderland"
+         },
+         {
+            "count":25,
+            "twitter_count":15,
+            "team":"Swansea City"
+         },
+         {
+            "count":25,
+            "twitter_count":19,
+            "team":"Tottenham Hotspur"
+         },
+         {
+            "count":28,
+            "twitter_count":14,
+            "team":"Watford"
+         },
+         {
+            "count":25,
+            "twitter_count":12,
+            "team":"West Bromwich Albion"
+         },
+         {
+            "count":29,
+            "twitter_count":23,
+            "team":"West Ham United"
+         }
+      ],
+      "qualify":2,
+      "twitter_count":391
+   },
+   {
+      "count":1064,
+      "league":"bundesliga",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":25,
+            "twitter_count":2,
+            "team":"1. FC Heidenheim 1846"
+         },
+         {
+            "count":26,
+            "twitter_count":4,
+            "team":"1. FC Kaiserslautern"
+         },
+         {
+            "count":25,
+            "twitter_count":6,
+            "team":"1. FC K\u00f6ln"
+         },
+         {
+            "count":26,
+            "twitter_count":4,
+            "team":"1. FC N\u00fcrnberg"
+         },
+         {
+            "count":29,
+            "twitter_count":7,
+            "team":"1. FC Union Berlin"
+         },
+         {
+            "count":29,
+            "twitter_count":9,
+            "team":"1. FSV Mainz 05"
+         },
+         {
+            "count":28,
+            "twitter_count":11,
+            "team":"Bayer 04 Leverkusen"
+         },
+         {
+            "count":29,
+            "twitter_count":21,
+            "team":"Borussia Dortmund"
+         },
+         {
+            "count":29,
+            "twitter_count":13,
+            "team":"Borussia M\u00f6nchengladbach"
+         },
+         {
+            "count":29,
+            "twitter_count":4,
+            "team":"DSC Arminia Bielefeld"
+         },
+         {
+            "count":25,
+            "twitter_count":0,
+            "team":"Eintracht Braunschweig"
+         },
+         {
+            "count":31,
+            "twitter_count":5,
+            "team":"Eintracht Frankfurt"
+         },
+         {
+            "count":32,
+            "twitter_count":5,
+            "team":"FC Augsburg"
+         },
+         {
+            "count":27,
+            "twitter_count":16,
+            "team":"FC Bayern M\u00fcnchen"
+         },
+         {
+            "count":29,
+            "twitter_count":1,
+            "team":"FC Erzgebirge Aue"
+         },
+         {
+            "count":26,
+            "twitter_count":5,
+            "team":"FC Ingolstadt 04"
+         },
+         {
+            "count":33,
+            "twitter_count":12,
+            "team":"FC Schalke 04"
+         },
+         {
+            "count":27,
+            "twitter_count":1,
+            "team":"FC St. Pauli"
+         },
+         {
+            "count":27,
+            "twitter_count":0,
+            "team":"FC W\u00fcrzburger Kickers"
+         },
+         {
+            "count":29,
+            "twitter_count":4,
+            "team":"Fortuna D\u00fcsseldorf"
+         },
+         {
+            "count":30,
+            "twitter_count":7,
+            "team":"Hamburger SV"
+         },
+         {
+            "count":31,
+            "twitter_count":8,
+            "team":"Hannover 96"
+         },
+         {
+            "count":27,
+            "twitter_count":13,
+            "team":"Hertha Berlin"
+         },
+         {
+            "count":28,
+            "twitter_count":7,
+            "team":"Karlsruher SC"
+         },
+         {
+            "count":25,
+            "twitter_count":7,
+            "team":"RB Leipzig"
+         },
+         {
+            "count":30,
+            "twitter_count":3,
+            "team":"SC Freiburg"
+         },
+         {
+            "count":26,
+            "twitter_count":0,
+            "team":"SG Dynamo Dresden"
+         },
+         {
+            "count":30,
+            "twitter_count":5,
+            "team":"SV Darmstadt 98"
+         },
+         {
+            "count":28,
+            "twitter_count":2,
+            "team":"SV Sandhausen 1916"
+         },
+         {
+            "count":33,
+            "twitter_count":11,
+            "team":"SV Werder Bremen"
+         },
+         {
+            "count":26,
+            "twitter_count":0,
+            "team":"SpVgg Greuther F\u00fcrth"
+         },
+         {
+            "count":27,
+            "twitter_count":7,
+            "team":"TSG 1899 Hoffenheim"
+         },
+         {
+            "count":30,
+            "twitter_count":2,
+            "team":"TSV 1860 M\u00fcnchen"
+         },
+         {
+            "count":30,
+            "twitter_count":8,
+            "team":"VfB Stuttgart"
+         },
+         {
+            "count":33,
+            "twitter_count":2,
+            "team":"VfL Bochum 1848"
+         },
+         {
+            "count":32,
+            "twitter_count":11,
+            "team":"VfL Wolfsburg"
+         }
+      ],
+      "qualify":2,
+      "twitter_count":260
+   },
+   {
+      "count":389,
+      "league":"csl",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":28,
+            "twitter_count":1,
+            "team":"Beijing Guoan"
+         },
+         {
+            "count":28,
+            "twitter_count":0,
+            "team":"Changchun Yatai"
+         },
+         {
+            "count":21,
+            "twitter_count":2,
+            "team":"Chongqing Lifan"
+         },
+         {
+            "count":27,
+            "twitter_count":4,
+            "team":"Guangzhou Hengda"
+         },
+         {
+            "count":25,
+            "twitter_count":0,
+            "team":"Guangzhou R & F"
+         },
+         {
+            "count":28,
+            "twitter_count":1,
+            "team":"Hangzhou Greentown"
+         },
+         {
+            "count":26,
+            "twitter_count":2,
+            "team":"Henan Jianye"
+         },
+         {
+            "count":28,
+            "twitter_count":3,
+            "team":"Jiangsu Suning"
+         },
+         {
+            "count":29,
+            "twitter_count":0,
+            "team":"Liaoning Hongyun"
+         },
+         {
+            "count":29,
+            "twitter_count":4,
+            "team":"Shandong Luneng"
+         },
+         {
+            "count":27,
+            "twitter_count":2,
+            "team":"Shanghai Greenland Shenhua"
+         },
+         {
+            "count":30,
+            "twitter_count":1,
+            "team":"Shanghai International Port"
+         },
+         {
+            "count":21,
+            "twitter_count":1,
+            "team":"Shijiazhuang Yongchang"
+         },
+         {
+            "count":27,
+            "twitter_count":0,
+            "team":"Tianjin Teda"
+         }
+      ],
+      "qualify":1,
+      "twitter_count":27
+   },
+   {
+      "count":500,
+      "league":"golf",
+      "qualify":4,
+      "twitter_count":346,
+      "site":"athleets.com"
+   },
+   {
+      "count":210,
+      "league":"ipl",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":24,
+            "twitter_count":18,
+            "team":"Delhi Daredevils"
+         },
+         {
+            "count":24,
+            "twitter_count":17,
+            "team":"Gujarat Lions"
+         },
+         {
+            "count":23,
+            "twitter_count":18,
+            "team":"Kings XI Punjab"
+         },
+         {
+            "count":23,
+            "twitter_count":19,
+            "team":"Kolkata Knight Riders"
+         },
+         {
+            "count":28,
+            "twitter_count":19,
+            "team":"Mumbai Indians"
+         },
+         {
+            "count":27,
+            "twitter_count":22,
+            "team":"Rising Pune Supergiants"
+         },
+         {
+            "count":29,
+            "twitter_count":21,
+            "team":"Royal Challengers Bangalore"
+         },
+         {
+            "count":23,
+            "twitter_count":20,
+            "team":"Sunrisers Hyderabad"
+         }
+      ],
+      "qualify":1,
+      "twitter_count":163
+   },
+   {
+      "count":970,
+      "league":"laliga",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":23,
+            "twitter_count":15,
+            "team":"AD Alcorc\u00f3n"
+         },
+         {
+            "count":25,
+            "twitter_count":15,
+            "team":"At Osasuna"
+         },
+         {
+            "count":21,
+            "twitter_count":10,
+            "team":"Athletic Club"
+         },
+         {
+            "count":20,
+            "twitter_count":14,
+            "team":"Atl\u00e9tico de Madrid"
+         },
+         {
+            "count":23,
+            "twitter_count":14,
+            "team":"CD Legan\u00e9s"
+         },
+         {
+            "count":17,
+            "twitter_count":10,
+            "team":"CD Lugo"
+         },
+         {
+            "count":21,
+            "twitter_count":9,
+            "team":"CD Mirand\u00e9s"
+         },
+         {
+            "count":23,
+            "twitter_count":13,
+            "team":"CD Numancia"
+         },
+         {
+            "count":20,
+            "twitter_count":10,
+            "team":"CD Tenerife"
+         },
+         {
+            "count":22,
+            "twitter_count":8,
+            "team":"CF Reus"
+         },
+         {
+            "count":24,
+            "twitter_count":10,
+            "team":"C\u00e1diz CF"
+         },
+         {
+            "count":20,
+            "twitter_count":9,
+            "team":"C\u00f3rdoba CF"
+         },
+         {
+            "count":25,
+            "twitter_count":13,
+            "team":"D. Alav\u00e9s"
+         },
+         {
+            "count":22,
+            "twitter_count":6,
+            "team":"Elche CF"
+         },
+         {
+            "count":19,
+            "twitter_count":15,
+            "team":"FC Barcelona"
+         },
+         {
+            "count":21,
+            "twitter_count":7,
+            "team":"Getafe CF"
+         },
+         {
+            "count":22,
+            "twitter_count":14,
+            "team":"Girona FC"
+         },
+         {
+            "count":22,
+            "twitter_count":11,
+            "team":"Granada CF"
+         },
+         {
+            "count":22,
+            "twitter_count":11,
+            "team":"Levante UD"
+         },
+         {
+            "count":22,
+            "twitter_count":14,
+            "team":"M\u00e1laga CF"
+         },
+         {
+            "count":25,
+            "twitter_count":13,
+            "team":"N\u00e0stic"
+         },
+         {
+            "count":22,
+            "twitter_count":8,
+            "team":"R. Oviedo"
+         },
+         {
+            "count":21,
+            "twitter_count":11,
+            "team":"R. Sporting"
+         },
+         {
+            "count":23,
+            "twitter_count":13,
+            "team":"R. Valladolid CF"
+         },
+         {
+            "count":24,
+            "twitter_count":6,
+            "team":"R. Zaragoza"
+         },
+         {
+            "count":25,
+            "twitter_count":15,
+            "team":"RC Celta"
+         },
+         {
+            "count":20,
+            "twitter_count":8,
+            "team":"RC Deportivo"
+         },
+         {
+            "count":21,
+            "twitter_count":12,
+            "team":"RCD Espanyol"
+         },
+         {
+            "count":21,
+            "twitter_count":8,
+            "team":"RCD Mallorca"
+         },
+         {
+            "count":26,
+            "twitter_count":13,
+            "team":"Rayo Vallecano"
+         },
+         {
+            "count":23,
+            "twitter_count":9,
+            "team":"Real Betis"
+         },
+         {
+            "count":21,
+            "twitter_count":18,
+            "team":"Real Madrid"
+         },
+         {
+            "count":22,
+            "twitter_count":11,
+            "team":"Real Sociedad"
+         },
+         {
+            "count":21,
+            "twitter_count":15,
+            "team":"SD Eibar"
+         },
+         {
+            "count":20,
+            "twitter_count":10,
+            "team":"SD Huesca"
+         },
+         {
+            "count":24,
+            "twitter_count":18,
+            "team":"Sevilla Atl\u00e9tico"
+         },
+         {
+            "count":22,
+            "twitter_count":15,
+            "team":"Sevilla FC"
+         },
+         {
+            "count":20,
+            "twitter_count":9,
+            "team":"UCAM Murcia CF"
+         },
+         {
+            "count":24,
+            "twitter_count":9,
+            "team":"UD Almer\u00eda"
+         },
+         {
+            "count":25,
+            "twitter_count":13,
+            "team":"UD Las Palmas"
+         },
+         {
+            "count":21,
+            "twitter_count":12,
+            "team":"Valencia CF"
+         },
+         {
+            "count":22,
+            "twitter_count":13,
+            "team":"Villarreal CF"
+         }
+      ],
+      "qualify":2,
+      "twitter_count":530
+   },
+   {
+      "count":1064,
+      "league":"ligue1",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":22,
+            "twitter_count":12,
+            "team":"AC Ajaccio"
+         },
+         {
+            "count":27,
+            "twitter_count":8,
+            "team":"AJ Auxerre"
+         },
+         {
+            "count":27,
+            "twitter_count":16,
+            "team":"AS Monaco"
+         },
+         {
+            "count":27,
+            "twitter_count":9,
+            "team":"AS Nancy Lorraine"
+         },
+         {
+            "count":23,
+            "twitter_count":12,
+            "team":"AS Saint-Etienne"
+         },
+         {
+            "count":24,
+            "twitter_count":6,
+            "team":"Amiens SC"
+         },
+         {
+            "count":28,
+            "twitter_count":14,
+            "team":"Angers SCO"
+         },
+         {
+            "count":25,
+            "twitter_count":10,
+            "team":"Chamois Niortais"
+         },
+         {
+            "count":24,
+            "twitter_count":11,
+            "team":"Clermont Foot"
+         },
+         {
+            "count":26,
+            "twitter_count":13,
+            "team":"Dijon FCO"
+         },
+         {
+            "count":26,
+            "twitter_count":15,
+            "team":"EA Guingamp"
+         },
+         {
+            "count":28,
+            "twitter_count":18,
+            "team":"ESTAC Troyes"
+         },
+         {
+            "count":21,
+            "twitter_count":4,
+            "team":"FBBP 01"
+         },
+         {
+            "count":24,
+            "twitter_count":13,
+            "team":"FC Lorient"
+         },
+         {
+            "count":29,
+            "twitter_count":18,
+            "team":"FC Metz"
+         },
+         {
+            "count":25,
+            "twitter_count":16,
+            "team":"FC Nantes"
+         },
+         {
+            "count":23,
+            "twitter_count":17,
+            "team":"FC Sochaux-Montb\u00e9liard"
+         },
+         {
+            "count":21,
+            "twitter_count":10,
+            "team":"Gaz\u00e9lec FC Ajaccio"
+         },
+         {
+            "count":29,
+            "twitter_count":16,
+            "team":"Girondins de Bordeaux"
+         },
+         {
+            "count":26,
+            "twitter_count":13,
+            "team":"Havre AC"
+         },
+         {
+            "count":29,
+            "twitter_count":14,
+            "team":"LOSC"
+         },
+         {
+            "count":24,
+            "twitter_count":10,
+            "team":"Montpellier H\u00e9rault SC"
+         },
+         {
+            "count":21,
+            "twitter_count":9,
+            "team":"N\u00eemes Olympique"
+         },
+         {
+            "count":30,
+            "twitter_count":12,
+            "team":"OGC Nice"
+         },
+         {
+            "count":25,
+            "twitter_count":16,
+            "team":"Olympique Lyonnais"
+         },
+         {
+            "count":30,
+            "twitter_count":14,
+            "team":"Olympique de Marseille"
+         },
+         {
+            "count":27,
+            "twitter_count":19,
+            "team":"Paris Saint-Germain"
+         },
+         {
+            "count":25,
+            "twitter_count":13,
+            "team":"RC Lens"
+         },
+         {
+            "count":26,
+            "twitter_count":8,
+            "team":"RC Strasbourg Alsace"
+         },
+         {
+            "count":23,
+            "twitter_count":4,
+            "team":"Red Star FC"
+         },
+         {
+            "count":25,
+            "twitter_count":13,
+            "team":"SC Bastia"
+         },
+         {
+            "count":28,
+            "twitter_count":9,
+            "team":"SM Caen"
+         },
+         {
+            "count":25,
+            "twitter_count":10,
+            "team":"Stade Brestois 29"
+         },
+         {
+            "count":25,
+            "twitter_count":11,
+            "team":"Stade Lavallois"
+         },
+         {
+            "count":31,
+            "twitter_count":23,
+            "team":"Stade Rennais FC"
+         },
+         {
+            "count":29,
+            "twitter_count":15,
+            "team":"Stade de Reims"
+         },
+         {
+            "count":24,
+            "twitter_count":13,
+            "team":"Toulouse FC"
+         },
+         {
+            "count":23,
+            "twitter_count":12,
+            "team":"Tours FC"
+         },
+         {
+            "count":25,
+            "twitter_count":9,
+            "team":"US Orl\u00e9ans"
+         },
+         {
+            "count":23,
+            "twitter_count":9,
+            "team":"Valenciennes FC"
+         }
+      ],
+      "qualify":2,
+      "twitter_count":535
+   },
+   {
+      "count":1346,
+      "league":"mlb",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":42,
+            "twitter_count":25,
+            "team":"Arizona Diamondbacks"
+         },
+         {
+            "count":44,
+            "twitter_count":29,
+            "team":"Atlanta Braves"
+         },
+         {
+            "count":42,
+            "twitter_count":27,
+            "team":"Baltimore Orioles"
+         },
+         {
+            "count":45,
+            "twitter_count":36,
+            "team":"Boston Red Sox"
+         },
+         {
+            "count":46,
+            "twitter_count":37,
+            "team":"Chicago Cubs"
+         },
+         {
+            "count":43,
+            "twitter_count":26,
+            "team":"Chicago White Sox"
+         },
+         {
+            "count":43,
+            "twitter_count":27,
+            "team":"Cincinnati Reds"
+         },
+         {
+            "count":43,
+            "twitter_count":34,
+            "team":"Cleveland Indians"
+         },
+         {
+            "count":42,
+            "twitter_count":24,
+            "team":"Colorado Rockies"
+         },
+         {
+            "count":41,
+            "twitter_count":31,
+            "team":"Detroit Tigers"
+         },
+         {
+            "count":40,
+            "twitter_count":32,
+            "team":"Houston Astros"
+         },
+         {
+            "count":48,
+            "twitter_count":29,
+            "team":"Kansas City Royals"
+         },
+         {
+            "count":46,
+            "twitter_count":30,
+            "team":"Los Angeles Angels"
+         },
+         {
+            "count":49,
+            "twitter_count":33,
+            "team":"Los Angeles Dodgers"
+         },
+         {
+            "count":41,
+            "twitter_count":25,
+            "team":"Miami Marlins"
+         },
+         {
+            "count":43,
+            "twitter_count":31,
+            "team":"Milwaukee Brewers"
+         },
+         {
+            "count":43,
+            "twitter_count":29,
+            "team":"Minnesota Twins"
+         },
+         {
+            "count":46,
+            "twitter_count":27,
+            "team":"New York Mets"
+         },
+         {
+            "count":45,
+            "twitter_count":27,
+            "team":"New York Yankees"
+         },
+         {
+            "count":50,
+            "twitter_count":37,
+            "team":"Oakland Athletics"
+         },
+         {
+            "count":44,
+            "twitter_count":31,
+            "team":"Philadelphia Phillies"
+         },
+         {
+            "count":40,
+            "twitter_count":30,
+            "team":"Pittsburgh Pirates"
+         },
+         {
+            "count":48,
+            "twitter_count":34,
+            "team":"San Diego Padres"
+         },
+         {
+            "count":42,
+            "twitter_count":29,
+            "team":"San Francisco Giants"
+         },
+         {
+            "count":46,
+            "twitter_count":30,
+            "team":"Seattle Mariners"
+         },
+         {
+            "count":45,
+            "twitter_count":28,
+            "team":"St. Louis Cardinals"
+         },
+         {
+            "count":41,
+            "twitter_count":26,
+            "team":"Tampa Bay Rays"
+         },
+         {
+            "count":44,
+            "twitter_count":33,
+            "team":"Texas Rangers"
+         },
+         {
+            "count":41,
+            "twitter_count":23,
+            "team":"Toronto Blue Jays"
+         },
+         {
+            "count":42,
+            "twitter_count":20,
+            "team":"Washington Nationals"
+         }
+      ],
+      "qualify":4,
+      "twitter_count":911
+   },
+   {
+      "count":590,
+      "league":"mls",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":7,
+            "twitter_count":4,
+            "team":"Atlanta United FC"
+         },
+         {
+            "count":26,
+            "twitter_count":17,
+            "team":"Chicago Fire"
+         },
+         {
+            "count":26,
+            "twitter_count":21,
+            "team":"Colorado Rapids"
+         },
+         {
+            "count":28,
+            "twitter_count":21,
+            "team":"Columbus Crew SC"
+         },
+         {
+            "count":29,
+            "twitter_count":25,
+            "team":"D.C. United"
+         },
+         {
+            "count":29,
+            "twitter_count":19,
+            "team":"FC Dallas"
+         },
+         {
+            "count":28,
+            "twitter_count":22,
+            "team":"Houston Dynamo"
+         },
+         {
+            "count":28,
+            "twitter_count":23,
+            "team":"LA Galaxy"
+         },
+         {
+            "count":28,
+            "twitter_count":23,
+            "team":"Montreal Impact"
+         },
+         {
+            "count":25,
+            "twitter_count":22,
+            "team":"New England Revolution"
+         },
+         {
+            "count":26,
+            "twitter_count":21,
+            "team":"New York City FC"
+         },
+         {
+            "count":27,
+            "twitter_count":22,
+            "team":"New York Red Bulls"
+         },
+         {
+            "count":30,
+            "twitter_count":23,
+            "team":"Orlando City Soccer Club"
+         },
+         {
+            "count":28,
+            "twitter_count":19,
+            "team":"Philadelphia Union"
+         },
+         {
+            "count":30,
+            "twitter_count":24,
+            "team":"Portland Timbers"
+         },
+         {
+            "count":29,
+            "twitter_count":24,
+            "team":"Real Salt Lake"
+         },
+         {
+            "count":28,
+            "twitter_count":23,
+            "team":"San Jose Earthquakes"
+         },
+         {
+            "count":30,
+            "twitter_count":26,
+            "team":"Seattle Sounders FC"
+         },
+         {
+            "count":29,
+            "twitter_count":26,
+            "team":"Sporting Kansas City"
+         },
+         {
+            "count":26,
+            "twitter_count":23,
+            "team":"Toronto FC"
+         },
+         {
+            "count":31,
+            "twitter_count":24,
+            "team":"Vancouver Whitecaps FC"
+         }
+      ],
+      "qualify":3,
+      "twitter_count":474
+   },
+   {
+      "count":595,
+      "league":"nba",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":18,
+            "twitter_count":18,
+            "team":"Atlanta Hawks"
+         },
+         {
+            "count":21,
+            "twitter_count":16,
+            "team":"Boston Celtics"
+         },
+         {
+            "count":24,
+            "twitter_count":22,
+            "team":"Brooklyn Nets"
+         },
+         {
+            "count":20,
+            "twitter_count":15,
+            "team":"Charlotte Hornets"
+         },
+         {
+            "count":15,
+            "twitter_count":14,
+            "team":"Chicago Bulls"
+         },
+         {
+            "count":14,
+            "twitter_count":11,
+            "team":"Cleveland Cavaliers"
+         },
+         {
+            "count":20,
+            "twitter_count":16,
+            "team":"Dallas Mavericks"
+         },
+         {
+            "count":20,
+            "twitter_count":19,
+            "team":"Denver Nuggets"
+         },
+         {
+            "count":19,
+            "twitter_count":17,
+            "team":"Detroit Pistons"
+         },
+         {
+            "count":15,
+            "twitter_count":15,
+            "team":"Golden State Warriors"
+         },
+         {
+            "count":18,
+            "twitter_count":15,
+            "team":"Houston Rockets"
+         },
+         {
+            "count":19,
+            "twitter_count":16,
+            "team":"Indiana Pacers"
+         },
+         {
+            "count":17,
+            "twitter_count":15,
+            "team":"Los Angeles Clippers"
+         },
+         {
+            "count":20,
+            "twitter_count":17,
+            "team":"Los Angeles Lakers"
+         },
+         {
+            "count":21,
+            "twitter_count":21,
+            "team":"Memphis Grizzlies"
+         },
+         {
+            "count":20,
+            "twitter_count":19,
+            "team":"Miami Heat"
+         },
+         {
+            "count":17,
+            "twitter_count":15,
+            "team":"Milwaukee Bucks"
+         },
+         {
+            "count":19,
+            "twitter_count":16,
+            "team":"Minnesota Timberwolves"
+         },
+         {
+            "count":21,
+            "twitter_count":20,
+            "team":"New Orleans Pelicans"
+         },
+         {
+            "count":19,
+            "twitter_count":17,
+            "team":"New York Knicks"
+         },
+         {
+            "count":18,
+            "twitter_count":16,
+            "team":"Oklahoma City Thunder"
+         },
+         {
+            "count":19,
+            "twitter_count":17,
+            "team":"Orlando Magic"
+         },
+         {
+            "count":21,
+            "twitter_count":18,
+            "team":"Philadelphia 76ers"
+         },
+         {
+            "count":16,
+            "twitter_count":15,
+            "team":"Phoenix Suns"
+         },
+         {
+            "count":18,
+            "twitter_count":16,
+            "team":"Portland Trail Blazers"
+         },
+         {
+            "count":18,
+            "twitter_count":15,
+            "team":"Sacramento Kings"
+         },
+         {
+            "count":20,
+            "twitter_count":17,
+            "team":"San Antonio Spurs"
+         },
+         {
+            "count":19,
+            "twitter_count":16,
+            "team":"Toronto Raptors"
+         },
+         {
+            "count":20,
+            "twitter_count":18,
+            "team":"Utah Jazz"
+         },
+         {
+            "count":18,
+            "twitter_count":16,
+            "team":"Washington Wizards"
+         }
+      ],
+      "qualify":3,
+      "twitter_count":529
+   },
+   {
+      "count":1974,
+      "league":"nfl",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":57,
+            "twitter_count":47,
+            "team":"Arizona Cardinals"
+         },
+         {
+            "count":59,
+            "twitter_count":50,
+            "team":"Atlanta Falcons"
+         },
+         {
+            "count":68,
+            "twitter_count":57,
+            "team":"Baltimore Ravens"
+         },
+         {
+            "count":64,
+            "twitter_count":57,
+            "team":"Buffalo Bills"
+         },
+         {
+            "count":59,
+            "twitter_count":56,
+            "team":"Carolina Panthers"
+         },
+         {
+            "count":62,
+            "twitter_count":54,
+            "team":"Chicago Bears"
+         },
+         {
+            "count":59,
+            "twitter_count":53,
+            "team":"Cincinnati Bengals"
+         },
+         {
+            "count":61,
+            "twitter_count":49,
+            "team":"Cleveland Browns"
+         },
+         {
+            "count":63,
+            "twitter_count":50,
+            "team":"Dallas Cowboys"
+         },
+         {
+            "count":57,
+            "twitter_count":53,
+            "team":"Denver Broncos"
+         },
+         {
+            "count":62,
+            "twitter_count":52,
+            "team":"Detroit Lions"
+         },
+         {
+            "count":60,
+            "twitter_count":51,
+            "team":"Green Bay Packers"
+         },
+         {
+            "count":61,
+            "twitter_count":53,
+            "team":"Houston Texans"
+         },
+         {
+            "count":61,
+            "twitter_count":46,
+            "team":"Indianapolis Colts"
+         },
+         {
+            "count":62,
+            "twitter_count":53,
+            "team":"Jacksonville Jaguars"
+         },
+         {
+            "count":59,
+            "twitter_count":49,
+            "team":"Kansas City Chiefs"
+         },
+         {
+            "count":59,
+            "twitter_count":51,
+            "team":"Los Angeles Rams"
+         },
+         {
+            "count":55,
+            "twitter_count":50,
+            "team":"Miami Dolphins"
+         },
+         {
+            "count":57,
+            "twitter_count":46,
+            "team":"Minnesota Vikings"
+         },
+         {
+            "count":60,
+            "twitter_count":52,
+            "team":"New England Patriots"
+         },
+         {
+            "count":66,
+            "twitter_count":61,
+            "team":"New Orleans Saints"
+         },
+         {
+            "count":61,
+            "twitter_count":56,
+            "team":"New York Giants"
+         },
+         {
+            "count":62,
+            "twitter_count":50,
+            "team":"New York Jets"
+         },
+         {
+            "count":59,
+            "twitter_count":53,
+            "team":"Oakland Raiders"
+         },
+         {
+            "count":57,
+            "twitter_count":47,
+            "team":"Philadelphia Eagles"
+         },
+         {
+            "count":64,
+            "twitter_count":53,
+            "team":"Pittsburgh Steelers"
+         },
+         {
+            "count":70,
+            "twitter_count":61,
+            "team":"San Diego Chargers"
+         },
+         {
+            "count":58,
+            "twitter_count":56,
+            "team":"San Francisco 49ers"
+         },
+         {
+            "count":64,
+            "twitter_count":58,
+            "team":"Seattle Seahawks"
+         },
+         {
+            "count":58,
+            "twitter_count":44,
+            "team":"Tampa Bay Buccaneers"
+         },
+         {
+            "count":57,
+            "twitter_count":45,
+            "team":"Tennessee Titans"
+         },
+         {
+            "count":60,
+            "twitter_count":49,
+            "team":"Washington Redskins"
+         }
+      ],
+      "qualify":5,
+      "twitter_count":1695
+   },
+   {
+      "count":1055,
+      "league":"nhl",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":28,
+            "twitter_count":16,
+            "team":"Anaheim Ducks"
+         },
+         {
+            "count":31,
+            "twitter_count":20,
+            "team":"Arizona Coyotes"
+         },
+         {
+            "count":48,
+            "twitter_count":33,
+            "team":"Boston Bruins"
+         },
+         {
+            "count":31,
+            "twitter_count":20,
+            "team":"Buffalo Sabres"
+         },
+         {
+            "count":20,
+            "twitter_count":12,
+            "team":"Calgary Flames"
+         },
+         {
+            "count":49,
+            "twitter_count":34,
+            "team":"Carolina Hurricanes"
+         },
+         {
+            "count":49,
+            "twitter_count":28,
+            "team":"Chicago Blackhawks"
+         },
+         {
+            "count":22,
+            "twitter_count":12,
+            "team":"Colorado Avalanche"
+         },
+         {
+            "count":40,
+            "twitter_count":22,
+            "team":"Columbus Blue Jackets"
+         },
+         {
+            "count":30,
+            "twitter_count":17,
+            "team":"Dallas Stars"
+         },
+         {
+            "count":26,
+            "twitter_count":14,
+            "team":"Detroit Red Wings"
+         },
+         {
+            "count":45,
+            "twitter_count":30,
+            "team":"Edmonton Oilers"
+         },
+         {
+            "count":43,
+            "twitter_count":31,
+            "team":"Florida Panthers"
+         },
+         {
+            "count":41,
+            "twitter_count":32,
+            "team":"Los Angeles Kings"
+         },
+         {
+            "count":24,
+            "twitter_count":17,
+            "team":"Minnesota Wild"
+         },
+         {
+            "count":25,
+            "twitter_count":14,
+            "team":"Montr\u00e9al Canadiens"
+         },
+         {
+            "count":32,
+            "twitter_count":17,
+            "team":"Nashville Predators"
+         },
+         {
+            "count":44,
+            "twitter_count":23,
+            "team":"New Jersey Devils"
+         },
+         {
+            "count":26,
+            "twitter_count":16,
+            "team":"New York Islanders"
+         },
+         {
+            "count":30,
+            "twitter_count":20,
+            "team":"New York Rangers"
+         },
+         {
+            "count":32,
+            "twitter_count":22,
+            "team":"Ottawa Senators"
+         },
+         {
+            "count":40,
+            "twitter_count":22,
+            "team":"Philadelphia Flyers"
+         },
+         {
+            "count":37,
+            "twitter_count":23,
+            "team":"Pittsburgh Penguins"
+         },
+         {
+            "count":45,
+            "twitter_count":26,
+            "team":"San Jose Sharks"
+         },
+         {
+            "count":23,
+            "twitter_count":18,
+            "team":"St. Louis Blues"
+         },
+         {
+            "count":24,
+            "twitter_count":17,
+            "team":"Tampa Bay Lightning"
+         },
+         {
+            "count":34,
+            "twitter_count":21,
+            "team":"Toronto Maple Leafs"
+         },
+         {
+            "count":45,
+            "twitter_count":28,
+            "team":"Vancouver Canucks"
+         },
+         {
+            "count":31,
+            "twitter_count":20,
+            "team":"Washington Capitals"
+         },
+         {
+            "count":29,
+            "twitter_count":14,
+            "team":"Winnipeg Jets"
+         }
+      ],
+      "qualify":3,
+      "twitter_count":670
+   },
+   {
+      "count":726,
+      "league":"primeira",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":28,
+            "twitter_count":1,
+            "team":"Boavista FC"
+         },
+         {
+            "count":26,
+            "twitter_count":0,
+            "team":"CD Feirense"
+         },
+         {
+            "count":27,
+            "twitter_count":0,
+            "team":"CD Nacional"
+         },
+         {
+            "count":26,
+            "twitter_count":1,
+            "team":"CD Tondela"
+         },
+         {
+            "count":26,
+            "twitter_count":0,
+            "team":"Estoril Praia"
+         },
+         {
+            "count":26,
+            "twitter_count":2,
+            "team":"FC Arouca"
+         },
+         {
+            "count":39,
+            "twitter_count":0,
+            "team":"FC P.Ferreira"
+         },
+         {
+            "count":62,
+            "twitter_count":11,
+            "team":"FC Porto"
+         },
+         {
+            "count":26,
+            "twitter_count":1,
+            "team":"GD Chaves"
+         },
+         {
+            "count":54,
+            "twitter_count":0,
+            "team":"Mar\u00edtimo M."
+         },
+         {
+            "count":28,
+            "twitter_count":0,
+            "team":"Moreirense FC"
+         },
+         {
+            "count":25,
+            "twitter_count":1,
+            "team":"Os Belenenses"
+         },
+         {
+            "count":29,
+            "twitter_count":0,
+            "team":"Rio Ave FC"
+         },
+         {
+            "count":62,
+            "twitter_count":3,
+            "team":"SC Braga"
+         },
+         {
+            "count":73,
+            "twitter_count":9,
+            "team":"SL Benfica"
+         },
+         {
+            "count":65,
+            "twitter_count":6,
+            "team":"Sporting CP"
+         },
+         {
+            "count":30,
+            "twitter_count":0,
+            "team":"Vit\u00f3ria FC"
+         },
+         {
+            "count":55,
+            "twitter_count":1,
+            "team":"Vit\u00f3ria SC"
+         }
+      ],
+      "qualify":2,
+      "twitter_count":53
+   },
+   {
+      "count":916,
+      "league":"rfpl",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":45,
+            "twitter_count":0,
+            "team":"Amkar Perm"
+         },
+         {
+            "count":52,
+            "twitter_count":2,
+            "team":"Anji"
+         },
+         {
+            "count":74,
+            "twitter_count":0,
+            "team":"Arsenal Tula"
+         },
+         {
+            "count":41,
+            "twitter_count":2,
+            "team":"CSKA Moscow"
+         },
+         {
+            "count":52,
+            "twitter_count":1,
+            "team":"FC Ufa"
+         },
+         {
+            "count":0,
+            "twitter_count":0,
+            "team":"Gazovik"
+         },
+         {
+            "count":77,
+            "twitter_count":2,
+            "team":"Krasnodar"
+         },
+         {
+            "count":44,
+            "twitter_count":2,
+            "team":"Krylia Sovetov Samara"
+         },
+         {
+            "count":48,
+            "twitter_count":5,
+            "team":"Lokomotiv Moscow"
+         },
+         {
+            "count":51,
+            "twitter_count":0,
+            "team":"Orenburg"
+         },
+         {
+            "count":54,
+            "twitter_count":2,
+            "team":"Rostov"
+         },
+         {
+            "count":62,
+            "twitter_count":11,
+            "team":"Rubin Kazan"
+         },
+         {
+            "count":71,
+            "twitter_count":5,
+            "team":"Spartak Moscow"
+         },
+         {
+            "count":51,
+            "twitter_count":1,
+            "team":"Terek Grozny"
+         },
+         {
+            "count":46,
+            "twitter_count":0,
+            "team":"Tom Tomsk"
+         },
+         {
+            "count":56,
+            "twitter_count":0,
+            "team":"Ural Sverdlovsk Oblast"
+         },
+         {
+            "count":74,
+            "twitter_count":4,
+            "team":"Zenit Saint Petersburg"
+         }
+      ],
+      "qualify":1,
+      "twitter_count":52
+   },
+   {
+      "count":655,
+      "league":"seriea",
+      "site":"athleets.com",
+      "teams":[
+         {
+            "count":33,
+            "twitter_count":9,
+            "team":"Atalanta"
+         },
+         {
+            "count":37,
+            "twitter_count":14,
+            "team":"Bologna"
+         },
+         {
+            "count":28,
+            "twitter_count":9,
+            "team":"Cagliari"
+         },
+         {
+            "count":0,
+            "twitter_count":0,
+            "team":"Carpi"
+         },
+         {
+            "count":0,
+            "twitter_count":0,
+            "team":"Chievo"
+         },
+         {
+            "count":32,
+            "twitter_count":14,
+            "team":"Chievoverona"
+         },
+         {
+            "count":30,
+            "twitter_count":7,
+            "team":"Crotone"
+         },
+         {
+            "count":27,
+            "twitter_count":12,
+            "team":"Empoli"
+         },
+         {
+            "count":33,
+            "twitter_count":14,
+            "team":"Fiorentina"
+         },
+         {
+            "count":0,
+            "twitter_count":0,
+            "team":"Frosinone"
+         },
+         {
+            "count":29,
+            "twitter_count":12,
+            "team":"Genoa"
+         },
+         {
+            "count":0,
+            "twitter_count":0,
+            "team":"Hellas"
+         },
+         {
+            "count":33,
+            "twitter_count":19,
+            "team":"Inter"
+         },
+         {
+            "count":28,
+            "twitter_count":25,
+            "team":"Juventus"
+         },
+         {
+            "count":35,
+            "twitter_count":17,
+            "team":"Lazio"
+         },
+         {
+            "count":29,
+            "twitter_count":17,
+            "team":"Milan"
+         },
+         {
+            "count":29,
+            "twitter_count":15,
+            "team":"Napoli"
+         },
+         {
+            "count":33,
+            "twitter_count":9,
+            "team":"Palermo"
+         },
+         {
+            "count":34,
+            "twitter_count":12,
+            "team":"Pescara"
+         },
+         {
+            "count":33,
+            "twitter_count":18,
+            "team":"Roma"
+         },
+         {
+            "count":29,
+            "twitter_count":13,
+            "team":"Sampdoria"
+         },
+         {
+            "count":37,
+            "twitter_count":13,
+            "team":"Sassuolo"
+         },
+         {
+            "count":30,
+            "twitter_count":13,
+            "team":"Torino"
+         },
+         {
+            "count":31,
+            "twitter_count":19,
+            "team":"Udinese"
+         }
+      ],
+      "qualify":2,
+      "twitter_count":305
+   },
+   {
+      "count":1113,
+      "league":"tennis",
+      "qualify":3,
+      "twitter_count":596,
+      "site":"athleets.com"
+   },
+   {
+      "count":4050,
+      "league":"hollywood",
+      "qualify":5,
+      "twitter_count":2628,
+      "site":"bringwood.com"
+   },
+   {
+      "count":1370,
+      "league":"aac",
+      "site":"d1tweets.com",
+      "teams":[
+         {
+            "count":111,
+            "twitter_count":68,
+            "team":"Cincinnati Bearcats"
+         },
+         {
+            "count":102,
+            "twitter_count":57,
+            "team":"Connecticut Huskies"
+         },
+         {
+            "count":108,
+            "twitter_count":64,
+            "team":"East Carolina Pirates"
+         },
+         {
+            "count":115,
+            "twitter_count":68,
+            "team":"Houston Cougars"
+         },
+         {
+            "count":113,
+            "twitter_count":65,
+            "team":"Memphis Tigers"
+         },
+         {
+            "count":169,
+            "twitter_count":86,
+            "team":"Navy Midshipmen"
+         },
+         {
+            "count":111,
+            "twitter_count":62,
+            "team":"SMU Mustangs"
+         },
+         {
+            "count":101,
+            "twitter_count":64,
+            "team":"South Florida Bulls"
+         },
+         {
+            "count":119,
+            "twitter_count":69,
+            "team":"Temple Owls"
+         },
+         {
+            "count":92,
+            "twitter_count":51,
+            "team":"Tulane Green Wave"
+         },
+         {
+            "count":107,
+            "twitter_count":58,
+            "team":"Tulsa Golden Hurricane"
+         },
+         {
+            "count":109,
+            "twitter_count":55,
+            "team":"UCF Knights"
+         }
+      ],
+      "qualify":4,
+      "twitter_count":780
+   },
+   {
+      "count":1574,
+      "league":"acc",
+      "site":"d1tweets.com",
+      "teams":[
+         {
+            "count":100,
+            "twitter_count":67,
+            "team":"Boston College Eagles"
+         },
+         {
+            "count":121,
+            "twitter_count":93,
+            "team":"Clemson Tigers"
+         },
+         {
+            "count":107,
+            "twitter_count":68,
+            "team":"Duke Blue Devils"
+         },
+         {
+            "count":122,
+            "twitter_count":76,
+            "team":"Florida State Seminoles"
+         },
+         {
+            "count":117,
+            "twitter_count":80,
+            "team":"Georgia Tech Yellow Jackets"
+         },
+         {
+            "count":114,
+            "twitter_count":76,
+            "team":"Louisville Cardinals"
+         },
+         {
+            "count":107,
+            "twitter_count":72,
+            "team":"Miami Hurricanes"
+         },
+         {
+            "count":117,
+            "twitter_count":79,
+            "team":"NC State Wolfpack"
+         },
+         {
+            "count":110,
+            "twitter_count":83,
+            "team":"North Carolina Tar Heels"
+         },
+         {
+            "count":112,
+            "twitter_count":86,
+            "team":"Pittsburgh Panthers"
+         },
+         {
+            "count":102,
+            "twitter_count":69,
+            "team":"Syracuse Orange"
+         },
+         {
+            "count":104,
+            "twitter_count":69,
+            "team":"Virginia Cavaliers"
+         },
+         {
+            "count":116,
+            "twitter_count":83,
+            "team":"Virginia Tech Hokies"
+         },
+         {
+            "count":110,
+            "twitter_count":74,
+            "team":"Wake Forest Demon Deacons"
+         }
+      ],
+      "qualify":4,
+      "twitter_count":1090
+   },
+   {
+      "count":1213,
+      "league":"big12",
+      "site":"d1tweets.com",
+      "teams":[
+         {
+            "count":105,
+            "twitter_count":66,
+            "team":"Baylor Bears"
+         },
+         {
+            "count":128,
+            "twitter_count":97,
+            "team":"Iowa State Cyclones"
+         },
+         {
+            "count":112,
+            "twitter_count":75,
+            "team":"Kansas Jayhawks"
+         },
+         {
+            "count":123,
+            "twitter_count":97,
+            "team":"Kansas State Wildcats"
+         },
+         {
+            "count":117,
+            "twitter_count":88,
+            "team":"Oklahoma Sooners"
+         },
+         {
+            "count":136,
+            "twitter_count":94,
+            "team":"Oklahoma State Cowboys"
+         },
+         {
+            "count":121,
+            "twitter_count":84,
+            "team":"TCU Horned Frogs"
+         },
+         {
+            "count":122,
+            "twitter_count":89,
+            "team":"Texas Longhorns"
+         },
+         {
+            "count":113,
+            "twitter_count":81,
+            "team":"Texas Tech Red Raiders"
+         },
+         {
+            "count":125,
+            "twitter_count":92,
+            "team":"West Virginia Mountaineers"
+         }
+      ],
+      "qualify":4,
+      "twitter_count":874
+   },
+   {
+      "count":1642,
+      "league":"bigten",
+      "site":"d1tweets.com",
+      "teams":[
+         {
+            "count":102,
+            "twitter_count":67,
+            "team":"Illinois Fighting Illini"
+         },
+         {
+            "count":114,
+            "twitter_count":79,
+            "team":"Indiana Hoosiers"
+         },
+         {
+            "count":119,
+            "twitter_count":75,
+            "team":"Iowa Hawkeyes"
+         },
+         {
+            "count":108,
+            "twitter_count":62,
+            "team":"Maryland Terrapins"
+         },
+         {
+            "count":120,
+            "twitter_count":99,
+            "team":"Michigan State Spartans"
+         },
+         {
+            "count":133,
+            "twitter_count":106,
+            "team":"Michigan Wolverines"
+         },
+         {
+            "count":110,
+            "twitter_count":87,
+            "team":"Minnesota Golden Gophers"
+         },
+         {
+            "count":144,
+            "twitter_count":115,
+            "team":"Nebraska Cornhuskers"
+         },
+         {
+            "count":105,
+            "twitter_count":76,
+            "team":"Northwestern Wildcats"
+         },
+         {
+            "count":115,
+            "twitter_count":94,
+            "team":"Ohio State Buckeyes"
+         },
+         {
+            "count":119,
+            "twitter_count":98,
+            "team":"Penn State Nittany Lions"
+         },
+         {
+            "count":111,
+            "twitter_count":76,
+            "team":"Purdue Boilermakers"
+         },
+         {
+            "count":110,
+            "twitter_count":72,
+            "team":"Rutgers Scarlet Knights"
+         },
+         {
+            "count":117,
+            "twitter_count":94,
+            "team":"Wisconsin Badgers"
+         }
+      ],
+      "qualify":4,
+      "twitter_count":1215
+   },
+   {
+      "count":1459,
+      "league":"cusa",
+      "site":"d1tweets.com",
+      "teams":[
+         {
+            "count":118,
+            "twitter_count":51,
+            "team":"Charlotte 49ers"
+         },
+         {
+            "count":108,
+            "twitter_count":56,
+            "team":"Florida Atlantic Owls"
+         },
+         {
+            "count":104,
+            "twitter_count":46,
+            "team":"Florida Intl Golden Panthers"
+         },
+         {
+            "count":115,
+            "twitter_count":59,
+            "team":"Louisiana Tech Bulldogs"
+         },
+         {
+            "count":111,
+            "twitter_count":56,
+            "team":"Marshall Thundering Herd"
+         },
+         {
+            "count":99,
+            "twitter_count":54,
+            "team":"Middle Tennessee Blue Raiders"
+         },
+         {
+            "count":106,
+            "twitter_count":67,
+            "team":"North Texas Mean Green"
+         },
+         {
+            "count":118,
+            "twitter_count":49,
+            "team":"Old Dominion Monarchs"
+         },
+         {
+            "count":108,
+            "twitter_count":54,
+            "team":"Rice Owls"
+         },
+         {
+            "count":109,
+            "twitter_count":53,
+            "team":"Southern Mississippi Golden Eagles"
+         },
+         {
+            "count":119,
+            "twitter_count":59,
+            "team":"Texas San Antonio Roadrunners"
+         },
+         {
+            "count":11,
+            "twitter_count":1,
+            "team":"UAB Blazers"
+         },
+         {
+            "count":107,
+            "twitter_count":36,
+            "team":"UTEP Miners"
+         },
+         {
+            "count":111,
+            "twitter_count":68,
+            "team":"Western Kentucky Hilltoppers"
+         }
+      ],
+      "qualify":4,
+      "twitter_count":724
+   },
+   {
+      "count":490,
+      "league":"fbsindependent",
+      "site":"d1tweets.com",
+      "teams":[
+         {
+            "count":143,
+            "twitter_count":65,
+            "team":"Army Black Knights"
+         },
+         {
+            "count":122,
+            "twitter_count":63,
+            "team":"BYU Cougars"
+         },
+         {
+            "count":106,
+            "twitter_count":48,
+            "team":"Massachusetts Minutemen"
+         },
+         {
+            "count":114,
+            "twitter_count":96,
+            "team":"Notre Dame Fighting Irish"
+         }
+      ],
+      "qualify":3,
+      "twitter_count":277
+   },
+   {
+      "count":1313,
+      "league":"mac",
+      "site":"d1tweets.com",
+      "teams":[
+         {
+            "count":109,
+            "twitter_count":46,
+            "team":"Akron Zips"
+         },
+         {
+            "count":103,
+            "twitter_count":62,
+            "team":"Ball State Cardinals"
+         },
+         {
+            "count":107,
+            "twitter_count":64,
+            "team":"Bowling Green Falcons"
+         },
+         {
+            "count":109,
+            "twitter_count":57,
+            "team":"Buffalo Bulls"
+         },
+         {
+            "count":109,
+            "twitter_count":63,
+            "team":"Central Michigan Chippewas"
+         },
+         {
+            "count":110,
+            "twitter_count":68,
+            "team":"Eastern Michigan Eagles"
+         },
+         {
+            "count":102,
+            "twitter_count":42,
+            "team":"Kent State Golden Flashes"
+         },
+         {
+            "count":109,
+            "twitter_count":81,
+            "team":"Miami (OH) RedHawks"
+         },
+         {
+            "count":115,
+            "twitter_count":74,
+            "team":"Northern Illinois Huskies"
+         },
+         {
+            "count":113,
+            "twitter_count":60,
+            "team":"Ohio Bobcats"
+         },
+         {
+            "count":115,
+            "twitter_count":60,
+            "team":"Toledo Rockets"
+         },
+         {
+            "count":99,
+            "twitter_count":58,
+            "team":"Western Michigan Broncos"
+         }
+      ],
+      "qualify":4,
+      "twitter_count":748
+   },
+   {
+      "count":1302,
+      "league":"mountainwest",
+      "site":"d1tweets.com",
+      "teams":[
+         {
+            "count":95,
+            "twitter_count":34,
+            "team":"Air Force Falcons"
+         },
+         {
+            "count":110,
+            "twitter_count":71,
+            "team":"Boise State Broncos"
+         },
+         {
+            "count":111,
+            "twitter_count":63,
+            "team":"Colorado State Rams"
+         },
+         {
+            "count":110,
+            "twitter_count":59,
+            "team":"Fresno State Bulldogs"
+         },
+         {
+            "count":112,
+            "twitter_count":57,
+            "team":"Hawai'i Rainbow Warriors"
+         },
+         {
+            "count":110,
+            "twitter_count":61,
+            "team":"Nevada Wolf Pack"
+         },
+         {
+            "count":105,
+            "twitter_count":57,
+            "team":"New Mexico Lobos"
+         },
+         {
+            "count":119,
+            "twitter_count":62,
+            "team":"San Diego State Aztecs"
+         },
+         {
+            "count":93,
+            "twitter_count":43,
+            "team":"San Jos\u00e9 State Spartans"
+         },
+         {
+            "count":97,
+            "twitter_count":28,
+            "team":"UNLV Rebels"
+         },
+         {
+            "count":111,
+            "twitter_count":64,
+            "team":"Utah State Aggies"
+         },
+         {
+            "count":116,
+            "twitter_count":70,
+            "team":"Wyoming Cowboys"
+         }
+      ],
+      "qualify":4,
+      "twitter_count":682
+   },
+   {
+      "count":1382,
+      "league":"pac12",
+      "site":"d1tweets.com",
+      "teams":[
+         {
+            "count":113,
+            "twitter_count":74,
+            "team":"Arizona State Sun Devils"
+         },
+         {
+            "count":115,
+            "twitter_count":80,
+            "team":"Arizona Wildcats"
+         },
+         {
+            "count":124,
+            "twitter_count":87,
+            "team":"California Golden Bears"
+         },
+         {
+            "count":117,
+            "twitter_count":77,
+            "team":"Colorado Buffaloes"
+         },
+         {
+            "count":112,
+            "twitter_count":82,
+            "team":"Oregon Ducks"
+         },
+         {
+            "count":111,
+            "twitter_count":70,
+            "team":"Oregon State Beavers"
+         },
+         {
+            "count":102,
+            "twitter_count":89,
+            "team":"Stanford Cardinal"
+         },
+         {
+            "count":109,
+            "twitter_count":87,
+            "team":"UCLA Bruins"
+         },
+         {
+            "count":109,
+            "twitter_count":84,
+            "team":"USC Trojans"
+         },
+         {
+            "count":127,
+            "twitter_count":73,
+            "team":"Utah Utes"
+         },
+         {
+            "count":112,
+            "twitter_count":75,
+            "team":"Washington Huskies"
+         },
+         {
+            "count":118,
+            "twitter_count":68,
+            "team":"Washington State Cougars"
+         }
+      ],
+      "qualify":4,
+      "twitter_count":959
+   },
+   {
+      "count":1660,
+      "league":"sec",
+      "site":"d1tweets.com",
+      "teams":[
+         {
+            "count":115,
+            "twitter_count":87,
+            "team":"Alabama Crimson Tide"
+         },
+         {
+            "count":117,
+            "twitter_count":95,
+            "team":"Arkansas Razorbacks"
+         },
+         {
+            "count":117,
+            "twitter_count":82,
+            "team":"Auburn Tigers"
+         },
+         {
+            "count":115,
+            "twitter_count":85,
+            "team":"Florida Gators"
+         },
+         {
+            "count":130,
+            "twitter_count":96,
+            "team":"Georgia Bulldogs"
+         },
+         {
+            "count":116,
+            "twitter_count":88,
+            "team":"Kentucky Wildcats"
+         },
+         {
+            "count":122,
+            "twitter_count":88,
+            "team":"LSU Tigers"
+         },
+         {
+            "count":126,
+            "twitter_count":73,
+            "team":"Mississippi State Bulldogs"
+         },
+         {
+            "count":108,
+            "twitter_count":72,
+            "team":"Missouri Tigers"
+         },
+         {
+            "count":121,
+            "twitter_count":94,
+            "team":"Ole Miss Rebels"
+         },
+         {
+            "count":118,
+            "twitter_count":87,
+            "team":"South Carolina Gamecocks"
+         },
+         {
+            "count":118,
+            "twitter_count":94,
+            "team":"Tennessee Volunteers"
+         },
+         {
+            "count":119,
+            "twitter_count":100,
+            "team":"Texas A&M Aggies"
+         },
+         {
+            "count":103,
+            "twitter_count":79,
+            "team":"Vanderbilt Commodores"
+         }
+      ],
+      "qualify":4,
+      "twitter_count":1235
+   },
+   {
+      "count":1233,
+      "league":"sunbelt",
+      "site":"d1tweets.com",
+      "teams":[
+         {
+            "count":108,
+            "twitter_count":67,
+            "team":"Appalachian State Mountaineers"
+         },
+         {
+            "count":106,
+            "twitter_count":62,
+            "team":"Arkansas State Red Wolves"
+         },
+         {
+            "count":125,
+            "twitter_count":59,
+            "team":"Georgia Southern Eagles"
+         },
+         {
+            "count":108,
+            "twitter_count":51,
+            "team":"Georgia State Panthers"
+         },
+         {
+            "count":103,
+            "twitter_count":47,
+            "team":"Idaho Vandals"
+         },
+         {
+            "count":121,
+            "twitter_count":49,
+            "team":"Louisiana Lafayette Ragin' Cajuns"
+         },
+         {
+            "count":112,
+            "twitter_count":55,
+            "team":"Louisiana Monroe Warhawks"
+         },
+         {
+            "count":102,
+            "twitter_count":50,
+            "team":"New Mexico State Aggies"
+         },
+         {
+            "count":111,
+            "twitter_count":42,
+            "team":"South Alabama Jaguars"
+         },
+         {
+            "count":107,
+            "twitter_count":62,
+            "team":"Texas State Bobcats"
+         },
+         {
+            "count":118,
+            "twitter_count":64,
+            "team":"Troy Trojans"
+         }
+      ],
+      "qualify":4,
+      "twitter_count":620
+   },
+   {
+      "count":591,
+      "league":"celebrity",
+      "qualify":1,
+      "twitter_count":591,
+      "site":"e2brute.com"
+   },
+   {
+      "count":1302,
+      "league":"gov",
+      "qualify":3,
+      "twitter_count":888,
+      "site":"junkeet.com"
+   },
+   {
+      "count":574,
+      "league":"ufc",
+      "qualify":5,
+      "twitter_count":445,
+      "site":"kotweet.com"
+   },
+   {
+      "count":947,
+      "league":"poker",
+      "qualify":1,
+      "twitter_count":451,
+      "site":"pokertalon.com"
+   },
+   {
+      "count":137,
+      "league":"nascar",
+      "qualify":1,
+      "twitter_count":106,
+      "site":"redlinetweets.com"
+   },
+   {
+      "count":882,
+      "league":"extreme",
+      "qualify":1,
+      "twitter_count":533,
+      "site":"ridertweet.com"
+   },
+   {
+      "count":389,
+      "league":"porn",
+      "qualify":2,
+      "twitter_count":183,
+      "site":"skintweet.com"
+   },
+   {
+      "count":534,
+      "league":"market",
+      "qualify":1,
+      "twitter_count":424,
+      "site":"ventorta.com"
+   },
+   {
+      "count":1811,
+      "league":"startup",
+      "qualify":1,
+      "twitter_count":623,
+      "site":"ventorta.com"
+   },
+   {
+      "count":442,
+      "league":"venture",
+      "qualify":1,
+      "twitter_count":185,
+      "site":"ventorta.com"
+   }
+]
