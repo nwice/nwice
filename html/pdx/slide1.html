@@ -1,0 +1,51 @@
+<section class="clear">
+	<a align="left" href="http://github.com/kmcintyre"><img src="me.jpg" height="50" style="border-radius: 50%;padding-right:10px"/></a>
+	Kevin McIntyre
+	<img align="right" src="http://photos2.meetupstatic.com/photos/event/5/2/global_446460082.jpeg" height="100"/> 	
+</section>
+<section>
+	<h1>Laremy Tunsil?</h1>
+</section>
+<section>
+	<img src="http://i2.cdn.turner.com/cnnnext/dam/assets/160429075026-laremy-tunsil-bong-large-169.jpg"/>
+</section>
+<section class="clear">
+	<h1>
+	One bong hit potentially costs NFL draftee $8M
+	<a href="http://www.cnbc.com/2016/04/29/one-bong-hit-costs-nfl-draftee-8m.html"><img align="right" src="cnbc.jpg" height="50"/></a>
+	</h1>		
+</section>
+<section>
+	<h1>Ways social media could be used to evaluate players.</h1>		
+</section>
+<section>
+	<h3><a href="#" onclick="r1('KennyBritt_18', this.parentNode)">Identifying good/bad seeds.</a></h3>		
+</section>
+<section>
+	<h3><a href="#" onclick="r1('KingTunsil78', this.parentNode)">Identifying good/bad brand ambassadors.</a></h3>
+</section>
+<section>
+	<h3><a href="#" onclick="$(this.parentNode).next().toggle()">Identifying psychological changes via usage patterns.</a></h3>
+	<div style="padding:2px" style="display:none"><img src="op.jpg" width="210" height="210" style="border-radius:10px" align="left"><div style="padding-top:10px"><span style="display:inline-block;padding-right:10px"><b>3.5 years ago</b></span>???</div></div>
+</section>
+<script>
+	function r1(who, where) {
+		console.log(who, where)
+		$.ajax({datatype:'json', url: who + '.json'}).done(function(data) {			
+			if ( $(where).next('div').length == 0 ) {
+				var div = '<div style="padding:2px" id="' + who + '"><img src="http://athleets.com/nfl/large/' + who + '.png" align="left" hspace="10" vspace="10"/></div>';
+				$(where).after(div);
+				data.forEach(function (tweet) {
+					if ( tweet.tweet_txt ) {
+						
+						var yo = prettyDate(tweet.social_ts_received)
+						console.log(yo)
+						$('#' + who).append('<div style="padding-top:10px"><span style="display:inline-block;padding-right:10px"><b>' + yo + '</b></span>' + tweet.tweet_txt + '</div>');
+					}
+				})				
+			} else {
+				$(where).next('div').remove()
+			}
+		});
+	}
+</script>

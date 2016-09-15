@@ -1,40 +1,49 @@
+.techico {
+	min-width:100px;
+	display:inline-block;		
+}
+.techlabel {
+	display:inline-block;
+	transform: translateY(-10px);		
+}
+.content {
+    max-width: 1280px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+}
+section h3 {
+	padding-left: 30px;
+}
+section {
+	display: none;
+	margin-bottom: 20px;
+}
 .sites li {
 	display: table-row;
 }
-
 .sites li a, .sites li span {
 	display: table-cell;
 	padding: 5px
 }
-
 body {
 	margin: auto; /* center in viewport */
 	width: 100%;
 	font-size: 1.75em;
 }
-
 .activePane, .icon, .activeIcon, .tweet_hidden, .github_hidden {
 	display: none;
 }
-
 .pane {
 	display: none;
 }
-
-.tweet_active, .github_active {
-	cursor: pointer;
-	display: block;
-}
-
+a.aws:link, a.aws:visited, a.aws:hover, a.aws:active { color: #0c0 }  /* unvisited links */
 .reference {
 	margin: 100px;
 	opacity: 0.33;
 }
-
 .activeLi {
 	padding-left: 20px;
 }
-
 .tweet_date, .github_date {
 	width: 50%;
 	text-align: right;
@@ -42,30 +51,32 @@ body {
 	color: gray;
 	padding: 10px;
 }
-
 .nwice_button {
 	margin: 5px 0 5px 10px;
 	font-size: 1.25em;
 }
-
 #github_feed {
 	padding: 20px 0;
 }
-
 #nwicecloud, #nwicepane {
 	padding: 20px
 }
-
 #tanks {
 	cursor: pointer;
 	position: absolute;
 	bottom: 50px;
 }
-
 #nwicepane p {
 	padding: 10px 0 10px 0;
 }
-
 #nwicecloud ul {
 	cursor: pointer;
 }
+#nwicecloud ul li {
+	margin-bottom: 10px;
+   -webkit-transition: all 0.5s ease;
+   -moz-transition: all 0.5s ease;
+   -o-transition: all 0.5s ease;
+   transition: all 0.5s ease;
+}
+

@@ -1,0 +1,52 @@
+<table id="tbl" style="width:100%">
+ 	<tr>
+ 	<th>site</th>
+    <th>leagues</th>
+    <th>total</th> 
+    <th>twitter</th>    
+    <th>qualify</th>
+  	</tr>
+</table>
+<script>
+var columns = ['site', 'league', 'count', 'twitter_count','qualify'];
+var team_colums=[{ cn: 'team', span: 2}, {cn: 'count', span: 1},{ cn: 'twitter_count', span: 1}];
+$.ajax({datatype:'json', url: 'totals.json'}).done(function(data) {
+	data.forEach(function (league) {
+		if ( $('#' + league.site.split('.')[0]).length == 0 ) {
+			$('#tbl').append('<tr id="' + league.site.split('.')[0] + '"><td>' + league.site + '</td><td>0</td><td>0</td><td>0</td></tr>');
+			$('#' + league.site.split('.')[0]).click(function () {
+				if ( $(this).next().attr('id') ) {
+					var nextId = $(this).next().attr('id');
+					console.log(this.id, 'expand');
+					var leagues = data.filter(function (l) { return l.site.split('.')[0] == league.site.split('.')[0] })
+					leagues.forEach(function (sl) {
+						var lr = $('<tr class="league"><td align="right">' + sl.league + '</td><td><img src="http://' + league.site + '/'+ sl.league + '/small/' + sl.twitter + '.png" hspace="5"/></td><td>' + sl.count + '</td><td>' + sl.twitter_count + '</td><td>' + sl.qualify + '</td></tr>');
+						$('#' + nextId).before(lr);
+						lr.click(function () {
+							if ( sl.teams ) {
+								if ( lr.next().hasClass('league') ) {
+									sl.teams.forEach(function (team) {
+										var tr = $('<tr class="team"><td align="right">' + team.team + '</td><td><img src="http://' + league.site + '/'+ sl.league + '/small/' + team.twitter + '.png" hspace="5"/></td><td>' + team.count + '</td><td>' + team.twitter_count + '</td><td></td></tr>');
+										lr.after(tr)			
+									})									
+								} else {
+									lr.nextUntil('.league').remove()
+								}
+							}
+						})
+					});
+				} else {
+					$(this).nextUntil('[id]').remove();					
+				}				
+			})
+		} 
+		var site = $('#' + league.site.split('.')[0]);
+		var lc = site.find('td').eq(1);
+		lc.html( parseInt(lc.html()) + 1);
+		var cc = site.find('td').eq(2);
+		cc.html( parseInt(cc.html()) + league.count);
+		var tc = site.find('td').eq(3);
+		tc.html( parseInt(tc.html()) + league.twitter_count);		
+	});
+});
+</script>
