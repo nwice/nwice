@@ -4,7 +4,50 @@
   <link type="text/html" rel="alternate" href="https://github.com/kmcintyre"/>
   <link type="application/atom+xml" rel="self" href="https://github.com/kmcintyre.atom"/>
   <title>kmcintyre’s Activity</title>
-  <updated>2016-09-10T21:23:24Z</updated>
+  <updated>2016-09-15T08:42:53Z</updated>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/4566798617</id>
+    <published>2016-09-15T08:42:53Z</published>
+    <updated>2016-09-15T08:42:53Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/nwice/nwice/compare/84f8ccc407...936ea2101b"/>
+    <title type="html">kmcintyre pushed to master at nwice/nwice</title>
+    <author>
+      <name>kmcintyre</name>
+      <uri>https://github.com/kmcintyre</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1017886?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-09-15T08:42:53Z&quot;&gt;Sep 15, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/kmcintyre&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;kmcintyre&lt;/a&gt; pushed to &lt;a href=&quot;/nwice/nwice/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/nwice/nwice&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;nwice/nwice&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/kmcintyre&quot;&gt;&lt;img alt=&quot;@kmcintyre&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/1017886?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;kmcintyre&quot;&gt;
+            &lt;img alt=&quot;@kmcintyre&quot; height=&quot;16&quot; src=&quot;https://avatars3.githubusercontent.com/u/1017886?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/nwice/nwice/commit/936ea2101ba94be9823a978e01ecd7e8bd464b35&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;936ea21&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              l/g
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:github.com,2008:PushEvent/4544741180</id>
     <published>2016-09-10T21:23:24Z</published>
@@ -1249,49 +1292,6 @@
             &lt;img alt=&quot;@kmcintyre&quot; height=&quot;16&quot; src=&quot;https://avatars3.githubusercontent.com/u/1017886?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
           &lt;/span&gt;
           &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/4dd8328844ae52d1ee7aa5913a8666d50bae9874&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;4dd8328&lt;/a&gt;&lt;/code&gt;
-          &lt;div class=&quot;message&quot;&gt;
-            &lt;blockquote&gt;
-              l/g
-            &lt;/blockquote&gt;
-          &lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:PushEvent/4318112460</id>
-    <published>2016-07-23T19:58:02Z</published>
-    <updated>2016-07-23T19:58:02Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/kmcintyre/athleets.com/compare/092b537e40...a1f0be4979"/>
-    <title type="html">kmcintyre pushed to master at kmcintyre/athleets.com</title>
-    <author>
-      <name>kmcintyre</name>
-      <uri>https://github.com/kmcintyre</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1017886?v=3&amp;s=30"/>
-    <content type="html">&lt;!-- push --&gt;
-&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-
-&lt;div class=&quot;time&quot;&gt;
-  &lt;relative-time datetime=&quot;2016-07-23T19:58:02Z&quot;&gt;Jul 23, 2016&lt;/relative-time&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;title&quot;&gt;
-  &lt;a href=&quot;/kmcintyre&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;kmcintyre&lt;/a&gt; pushed to &lt;a href=&quot;/kmcintyre/athleets.com/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/kmcintyre/athleets.com&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;kmcintyre/athleets.com&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;details&quot;&gt;
-  &lt;a href=&quot;/kmcintyre&quot;&gt;&lt;img alt=&quot;@kmcintyre&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/1017886?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
-
-    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;span title=&quot;kmcintyre&quot;&gt;
-            &lt;img alt=&quot;@kmcintyre&quot; height=&quot;16&quot; src=&quot;https://avatars3.githubusercontent.com/u/1017886?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
-          &lt;/span&gt;
-          &lt;code&gt;&lt;a href=&quot;/kmcintyre/athleets.com/commit/a1f0be49793c7753b9515ee04f7384da575b179f&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;a1f0be4&lt;/a&gt;&lt;/code&gt;
           &lt;div class=&quot;message&quot;&gt;
             &lt;blockquote&gt;
               l/g
